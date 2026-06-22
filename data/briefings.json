@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2026-06-22",
+    "type": "closing",
+    "title": "Closing Market Briefing — 2026-06-22",
+    "generated_at": "2026-06-22T17:14:36.147300Z",
+    "glance": [
+      "Market close tone: Bearish — IHSG fell nearly 1% with broad-based selling in large-cap banks and conglomerates.",
+      "IHSG driver: Institutional risk-off sentiment hit big banks and conglomerate stocks, dragging the composite index lower.",
+      "Foreign flow signal: unknown.",
+      "Strong sectors / assets: CPO (plantation commodity), select small-cap gainers (ZONE, BYAN).",
+      "Weak sectors / assets: Healthcare, industrial, and cyclical sectors all down ~2%; big banks and conglomerates broadly weaker.",
+      "Tomorrow setup: Watch whether IHSG holds the 6,100 support and whether Middle East diplomacy stabilizes oil and rupiah sentiment."
+    ],
+    "sections": [
+      {
+        "title": "Market Close Recap",
+        "updates": [
+          "IHSG closed at 6,116, down 60 points or 0.98%, with big bank and conglomerate stocks leading the decline (IDX Channel).",
+          "The index opened at 6,217, sold off to 6,099 in the first session (-1.25%), before recovering slightly to close at 6,116 (IDX Channel).",
+          "Market breadth was heavily negative: 201 advancers vs 501 decliners and 252 stagnant, with turnover reaching Rp7.61 trillion and 12.32 billion shares traded (IDX Channel).",
+          "All major indices — LQ45, IDX30, JII, ISSI, and SRI-KEHATI — closed in the red (IDX Channel)."
+        ],
+        "analysis": "The 5:1 decliner-to-advancer ratio with Rp7.6T turnover confirms broad systematic selling, not isolated profit-taking. The index briefly testing the 6,000 psychological level in the first session signals fragile support and raises the risk of further downside if external headwinds persist.",
+        "bias": "Bearish — broad-based sell-off across all sectors and indices with no safe-haven rotation within equities."
+      },
+      {
+        "title": "Sector and Flow Recap",
+        "updates": [
+          "Healthcare, industrial, and cyclical sectors all fell approximately 2% in the first session, with no sector managing to stay positive (IDX Channel).",
+          "Large-cap banks and conglomerate stocks were the primary drag on the index, consistent with institutional de-risking (IDX Channel).",
+          "Foreign net flow data was not available from sources retrieved."
+        ],
+        "analysis": "The absence of any positive sector today indicates systematic risk-off positioning rather than sector rotation. If foreign outflows are confirmed tomorrow, the case for further near-term downside strengthens.",
+        "bias": "Bearish — no sector escaped the sell-off, indicating broad institutional de-risking."
+      },
+      {
+        "title": "Economic and Policy Updates",
+        "updates": [
+          "The amended P2SK Law (UU No. 4/2026) now allows the Ministry of Finance, Bank Indonesia, and BPI Danantara to own shares in the Indonesia Stock Exchange (BEI), with a requirement to maintain the exchange's independence (IDX Channel).",
+          "The rupiah closed 0.22% weaker at Rp17,843/USD, pressured by Middle East tensions after Trump warned Iran about possible military action, though diplomatic talks led by VP JD Vance in Switzerland resulted in Iran receiving oil export exemptions (IDX Channel)."
+        ],
+        "analysis": "The P2SK amendment could reshape BEI's ownership structure and capital base, but the immediate market impact is limited. The rupiah's weakness, even as Iran tensions ease, reflects lingering risk premium and domestic inflation concerns that could pressure Bank Indonesia's policy stance.",
+        "bias": "Mixed — regulatory reform is structurally positive but rupiah weakness adds near-term headwinds."
+      },
+      {
+        "title": "Commodities and Macro Assets",
+        "updates": [
+          "CPO rose for a second consecutive day to a 1.5-month high, with the September Bursa Malaysia contract up 0.67% to 4,677 ringgit/ton, supported by stronger vegetable oil prices in Dalian and Chicago and ringgit weakness (IDX Channel).",
+          "Iran received exemptions for oil and petrochemical exports following US-Iran diplomatic talks in Switzerland, easing fears of global energy supply disruption (IDX Channel).",
+          "The rupiah weakened to Rp17,843/USD, caught between Middle East geopolitical risk and domestic inflation concerns (IDX Channel)."
+        ],
+        "analysis": "Higher CPO prices support Indonesian plantation stocks (AALI, LSIP, SGRO) and provide a commodity-linked bright spot. The Iran oil export exemption reduces the geopolitical risk premium on crude, which could stabilize energy costs and ease rupiah pressure — a net positive for Indonesian equities if tensions continue to de-escalate.",
+        "bias": "Mixed — CPO strength is bullish for plantations, but rupiah weakness and lingering geopolitical risk offset the positive."
+      }
+    ],
+    "movers": [
+      {
+        "stock": "ZONE",
+        "catalyst": "Top gainer on the IDX, surging 24.77% to Rp680 against a broadly bearish market backdrop (IDX Channel).",
+        "bias": "Bullish",
+        "watch": "Whether the rally continues or faces profit-taking; watch volume and any company-specific announcements."
+      },
+      {
+        "stock": "CFIN (Clipan Finance)",
+        "catalyst": "Announced a jumbo dividend with a yield of 136%, with a scheduled distribution timeline (IDX Channel).",
+        "bias": "Bullish",
+        "watch": "Price action around the dividend announcement; watch for cum-date and ex-dividend price adjustment."
+      },
+      {
+        "stock": "PNBN (Bank Panin)",
+        "catalyst": "Scheduled a Rp101 trillion dividend payment for mid-July 2026 (IDX Channel).",
+        "bias": "Bullish",
+        "watch": "Yield-seeking inflows ahead of ex-dividend date; watch for any price appreciation into the cum-date."
+      },
+      {
+        "stock": "TPIA (Chandra Asri) / PRDA (Prodia)",
+        "catalyst": "Prajogo Pangestu disclosed ownership in both stocks, describing them as short-term investments, drawing market attention (IDX Channel).",
+        "bias": "Mixed",
+        "watch": "Retail and institutional flow reactions; short-term volatility possible in both names."
+      },
+      {
+        "stock": "MMIX (Multi Medika)",
+        "catalyst": "Partnered with Sai Indonesia, targeting revenue growth of up to 90% (IDX Channel).",
+        "bias": "Bullish",
+        "watch": "Execution risk on the 90% growth target; watch for partnership details and revenue guidance updates."
+      }
+    ],
+    "watchpoints": [
+      "Watch whether IHSG holds the 6,100 support level — a break below 6,000 could trigger further stop-loss selling.",
+      "Monitor foreign flow data tomorrow morning for confirmation of institutional outflows vs domestic selling.",
+      "Track Middle East diplomatic developments — further de-escalation on Iran oil exports could stabilize oil, rupiah, and risk sentiment.",
+      "Several dividend announcements (CFIN, PNBN, DMMX, KKGI) create a dividend-capture watchlist for late June through mid-July."
+    ],
+    "sources": [
+      {
+        "title": "IDX Channel — IHSG Ditutup ke 6.116, Saham Big Banks dan Konglo Kompak Turun",
+        "url": "https://www.idxchannel.com/market-news/ihsg-ditutup-ke-6116-saham-big-banks-dan-konglo-kompak-turun"
+      },
+      {
+        "title": "IDX Channel — Koreksi 1,25 Persen di Sesi I, IHSG Kembali ke Area 6.000",
+        "url": "https://www.idxchannel.com/market-news/koreksi-125-persen-di-sesi-i-ihsg-kembali-ke-area-6000"
+      },
+      {
+        "title": "IDX Channel — Aturan Baru P2SK, Kemenkeu hingga Danantara Bisa Miliki Saham BEI",
+        "url": "https://www.idxchannel.com/market-news/aturan-baru-p2sk-kemenkeu-hingga-danantara-bisa-miliki-saham-bei"
+      },
+      {
+        "title": "IDX Channel — Gejolak Timur Tengah dan Risiko Inflasi Domestik Seret Rupiah ke Rp17.843",
+        "url": "https://www.idxchannel.com/market-news/gejolak-timur-tengah-dan-risiko-inflasi-domestik-seret-rupiah-ke-rp17843"
+      },
+      {
+        "title": "IDX Channel — Harga CPO Naik ke Level Tertinggi 1,5 Bulan",
+        "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-ke-level-tertinggi-15-bulan"
+      },
+      {
+        "title": "IDX Channel — 10 Saham Top Gainer Perdagangan Senin 22 Juni 2026",
+        "url": "https://www.idxchannel.com/market-news/10-saham-top-gainer-perdagangan-senin-22-juni-2026-ada-byan-dan-ades"
+      },
+      {
+        "title": "IDX Channel — Digital Mediatama (DMMX) Tebar Dividen Rp39 Miliar",
+        "url": "https://www.idxchannel.com/market-news/digital-mediatama-dmmx-tebar-dividen-rp39-miliar-di-akhir-juli"
+      },
+      {
+        "title": "IDX Channel — Clipan Finance (CFIN) Bagikan Dividen Jumbo",
+        "url": "https://www.idxchannel.com/market-news/clipan-finance-cfin-bagikan-dividen-jumbo-dengan-yield-136-persen-ini-jadwalnya"
+      },
+      {
+        "title": "IDX Channel — Bank Panin (PNBN) Patok Dividen Rp101 Triliun",
+        "url": "https://www.idxchannel.com/market-news/bank-panin-pnbn-patok-dividen-rp101-triliun-cair-pertengahan-juli-2026"
+      },
+      {
+        "title": "IDX Channel — Prajogo Punya Saham Prodia & Chandra Asri",
+        "url": "https://www.idxchannel.com/market-news/prajogo-punya-saham-prodia-prda-chandra-asri-tpia-klaim-hanya-investasi-jangka-pendek"
+      },
+      {
+        "title": "IDX Channel — Gandeng Sai Indonesia, Multi Medika (MMIX) Incar Pertumbuhan Omzet hingga 90 Persen",
+        "url": "https://www.idxchannel.com/market-news/gandeng-sai-indonesia-multi-medika-mmix-incar-pertumbuhan-omzet-hingga-90-persen"
+      },
+      {
+        "title": "IDX Channel — KKGI Tebar Dividen Rp585 Miliar",
+        "url": "https://www.idxchannel.com/market-news/kkgi-tebar-dividen-rp585-miliar-intip-jadwal-cum-date-nya"
+      }
+    ]
+  }
+]
