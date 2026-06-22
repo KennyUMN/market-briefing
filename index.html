@@ -5,16 +5,36 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Market Briefing</title>
 <style>
+/* ── Theme tokens ── */
 :root {
-  --bg: #0a0a0a;
-  --surface: #141414;
-  --border: #2a2a2a;
-  --text: #e0e0e0;
-  --muted: #888;
+  --bg: #0c0c0e;
+  --surface: #161618;
+  --surface-hover: #1c1c1f;
+  --border: #2a2a2e;
+  --text: #dfe1e6;
+  --text-secondary: #b0b3ba;
+  --muted: #6b6e76;
   --gold: #c5a028;
-  --green: #4a7c4a;
-  --red: #c44a4a;
-  --mono: 'SF Mono', 'Monaco', 'Cascadia Mono', 'Roboto Mono', monospace;
+  --gold-dim: rgba(197, 160, 40, 0.08);
+  --green: #5a9656;
+  --red: #c75050;
+  --mono: 'SF Mono', 'Monaco', 'Cascadia Mono', 'Roboto Mono', 'Courier New', monospace;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f5f5f4;
+    --surface: #ffffff;
+    --surface-hover: #f0f0ee;
+    --border: #d1d1cf;
+    --text: #1a1a1a;
+    --text-secondary: #444448;
+    --muted: #8a8a88;
+    --gold: #8a6d10;
+    --gold-dim: rgba(138, 109, 16, 0.06);
+    --green: #3a6a36;
+    --red: #a03838;
+  }
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -25,10 +45,10 @@ body {
   font-family: var(--mono);
   font-size: 14px;
   line-height: 1.6;
-  padding: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Header bar */
+/* ── Header bar ── */
 .bar {
   background: var(--surface);
   border-bottom: 1px solid var(--border);
@@ -57,18 +77,19 @@ body {
   font-family: var(--mono);
   font-size: 12px;
   cursor: pointer;
+  transition: border-color 0.2s ease;
 }
 
 .bar select:hover { border-color: var(--gold); }
 
-/* Container */
+/* ── Container ── */
 .wrap {
   max-width: 800px;
   margin: 0 auto;
-  padding: 24px 16px 80px;
+  padding: 32px 16px 80px;
 }
 
-/* Briefing header */
+/* ── Briefing header ── */
 .briefing-header {
   border-bottom: 1px solid var(--border);
   padding-bottom: 16px;
@@ -78,7 +99,8 @@ body {
 .briefing-header h2 {
   font-size: 20px;
   font-weight: 700;
-  margin-bottom: 4px;
+  margin-bottom: 6px;
+  line-height: 1.3;
 }
 
 .briefing-header .meta {
@@ -86,6 +108,9 @@ body {
   color: var(--muted);
   text-transform: uppercase;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .briefing-header .badge {
@@ -101,13 +126,16 @@ body {
 .badge.closing { color: var(--gold); border-color: var(--gold); }
 .badge.morning { color: var(--green); border-color: var(--green); }
 
-/* At a Glance */
+/* ── At a Glance ── */
 .glance {
   background: var(--surface);
   border: 1px solid var(--border);
   padding: 16px;
   margin-bottom: 24px;
+  transition: background 0.2s ease;
 }
+
+.glance:hover { background: var(--surface-hover); }
 
 .glance h3 {
   font-size: 11px;
@@ -117,9 +145,7 @@ body {
   margin-bottom: 12px;
 }
 
-.glance ul {
-  list-style: none;
-}
+.glance ul { list-style: none; }
 
 .glance li {
   padding: 4px 0;
@@ -133,11 +159,14 @@ body {
   margin-right: 8px;
 }
 
-/* Section */
+/* ── Section ── */
 .section {
   border: 1px solid var(--border);
   margin-bottom: 16px;
+  transition: border-color 0.2s ease;
 }
+
+.section:hover { border-color: var(--muted); }
 
 .section-header {
   background: var(--surface);
@@ -169,9 +198,7 @@ body {
 .bias-mixed { color: var(--gold); border-color: var(--gold); }
 .bias-neutral { color: var(--muted); border-color: var(--muted); }
 
-.section-body {
-  padding: 16px;
-}
+.section-body { padding: 16px; }
 
 .section-body h4 {
   font-size: 10px;
@@ -205,11 +232,11 @@ body {
   color: var(--text);
   padding: 8px 12px;
   border-left: 2px solid var(--gold);
-  background: rgba(197, 160, 40, 0.05);
+  background: var(--gold-dim);
   margin: 8px 0;
 }
 
-/* Movers */
+/* ── Movers ── */
 .movers {
   display: grid;
   gap: 12px;
@@ -219,7 +246,10 @@ body {
 .mover {
   border: 1px solid var(--border);
   padding: 12px 16px;
+  transition: border-color 0.2s ease;
 }
+
+.mover:hover { border-color: var(--muted); }
 
 .mover-header {
   display: flex;
@@ -234,14 +264,8 @@ body {
   color: var(--gold);
 }
 
-.mover-body {
-  font-size: 12px;
-  color: var(--text);
-}
-
-.mover-body p {
-  margin-bottom: 4px;
-}
+.mover-body { font-size: 12px; color: var(--text); }
+.mover-body p { margin-bottom: 4px; }
 
 .mover-body .label {
   color: var(--muted);
@@ -250,7 +274,7 @@ body {
   letter-spacing: 1px;
 }
 
-/* Watchpoints */
+/* ── Watchpoints ── */
 .watchpoints {
   border: 1px solid var(--border);
   padding: 16px;
@@ -279,10 +303,8 @@ body {
   font-weight: 700;
 }
 
-/* Sources */
-.sources {
-  margin-bottom: 24px;
-}
+/* ── Sources ── */
+.sources { margin-bottom: 24px; }
 
 .sources h3 {
   font-size: 11px;
@@ -293,20 +315,18 @@ body {
 }
 
 .sources ul { list-style: none; }
-.sources li {
-  padding: 4px 0;
-  font-size: 11px;
-}
+.sources li { padding: 4px 0; font-size: 11px; }
 
 .sources a {
   color: var(--gold);
   text-decoration: none;
   border-bottom: 1px dotted var(--border);
+  transition: border-color 0.2s ease;
 }
 
 .sources a:hover { border-bottom-color: var(--gold); }
 
-/* Empty state */
+/* ── Empty state ── */
 .empty {
   text-align: center;
   padding: 80px 16px;
@@ -319,17 +339,37 @@ body {
   color: var(--text);
 }
 
-/* Loading */
-.loading {
-  text-align: center;
-  padding: 40px;
-  color: var(--muted);
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+/* ── Skeletal loading ── */
+.skeleton {
+  padding: 32px 0;
 }
 
-/* Footer */
+.skel-line {
+  height: 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  margin-bottom: 8px;
+  animation: pulse 1.8s ease-in-out infinite;
+}
+
+.skel-line.short { width: 40%; }
+.skel-line.med { width: 65%; }
+.skel-line.long { width: 85%; }
+
+.skel-block {
+  height: 80px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  margin-bottom: 16px;
+  animation: pulse 1.8s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.7; }
+}
+
+/* ── Footer ── */
 .footer {
   text-align: center;
   padding: 24px;
@@ -338,20 +378,25 @@ body {
   border-top: 1px solid var(--border);
   text-transform: uppercase;
   letter-spacing: 1px;
+  line-height: 1.8;
 }
 
-/* Bias helper */
-.bias-class {
-  display: inline-block;
-  margin-left: 8px;
-  font-size: 10px;
-  color: var(--muted);
-}
-
+/* ── Responsive ── */
 @media (max-width: 600px) {
   .wrap { padding: 16px 8px 60px; }
   .briefing-header h2 { font-size: 16px; }
   .section-body { padding: 12px; }
+  .bar { padding: 10px 12px; }
+  .bar h1 { font-size: 11px; letter-spacing: 1px; }
+}
+
+/* ── Reduced motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
 </style>
 </head>
@@ -359,17 +404,25 @@ body {
 
 <div class="bar">
   <h1>Market Briefing</h1>
-  <select id="briefing-select" onchange="loadBriefing()">
+  <select id="briefing-select" onchange="loadBriefing()" aria-label="Select briefing date">
     <option value="">Loading...</option>
   </select>
 </div>
 
 <div class="wrap" id="content">
-  <div class="loading">Loading briefings...</div>
+  <div class="skeleton">
+    <div class="skel-line long"></div>
+    <div class="skel-line short"></div>
+    <div class="skel-block"></div>
+    <div class="skel-block"></div>
+    <div class="skel-block"></div>
+  </div>
 </div>
 
 <div class="footer">
-  Data from IDX Channel &middot; Generated by openclaw &middot; Hosted on GitHub Pages
+  Data from IDX Channel<br>
+  Generated by openclaw<br>
+  Hosted on GitHub Pages
 </div>
 
 <script>
@@ -384,9 +437,15 @@ function biasClass(bias) {
   return 'bias-neutral';
 }
 
+// Escape HTML and replace em-dashes with hyphens (em-dash ban, Section 9.G)
 function esc(s) {
   if (!s) return '';
-  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/\u2014/g, '-')   // em-dash -> hyphen
+    .replace(/\u2013/g, '-');  // en-dash -> hyphen
 }
 
 function renderBriefing(b) {
@@ -397,105 +456,105 @@ function renderBriefing(b) {
   let html = '';
 
   // Header
-  html += `<div class="briefing-header">`;
-  html += `<h2>${esc(b.title)}</h2>`;
-  html += `<div class="meta">${b.date} &middot; <span class="badge ${b.type}">${b.type}</span></div>`;
-  html += `</div>`;
+  html += '<div class="briefing-header">';
+  html += '<h2>' + esc(b.title) + '</h2>';
+  html += '<div class="meta"><span>' + b.date + '</span><span class="badge ' + b.type + '">' + b.type + '</span></div>';
+  html += '</div>';
 
   // At a Glance
   if (b.glance && b.glance.length) {
-    html += `<div class="glance">`;
-    html += `<h3>At a Glance</h3><ul>`;
-    b.glance.forEach(g => html += `<li>${esc(g)}</li>`);
-    html += `</ul></div>`;
+    html += '<div class="glance">';
+    html += '<h3>At a Glance</h3><ul>';
+    b.glance.forEach(function(g) { html += '<li>' + esc(g) + '</li>'; });
+    html += '</ul></div>';
   }
 
   // Sections
   if (b.sections) {
-    b.sections.forEach(s => {
-      html += `<div class="section">`;
-      html += `<div class="section-header">`;
-      html += `<h3>${esc(s.title)}</h3>`;
+    b.sections.forEach(function(s) {
+      html += '<div class="section">';
+      html += '<div class="section-header">';
+      html += '<h3>' + esc(s.title) + '</h3>';
       if (s.bias) {
-        const bc = biasClass(s.bias);
-        const biasText = s.bias.split('—')[0].trim();
-        html += `<span class="bias-tag ${bc}">${esc(biasText)}</span>`;
+        var bc = biasClass(s.bias);
+        var biasText = s.bias.split(/[\u2014\u2013-]/)[0].trim();
+        html += '<span class="bias-tag ' + bc + '">' + esc(biasText) + '</span>';
       }
-      html += `</div>`;
-      html += `<div class="section-body">`;
+      html += '</div>';
+      html += '<div class="section-body">';
 
       if (s.updates && s.updates.length) {
-        html += `<h4>Key Updates</h4><ul>`;
-        s.updates.forEach(u => html += `<li>${esc(u)}</li>`);
-        html += `</ul>`;
+        html += '<h4>Key Updates</h4><ul>';
+        s.updates.forEach(function(u) { html += '<li>' + esc(u) + '</li>'; });
+        html += '</ul>';
       }
 
       if (s.analysis) {
-        html += `<h4>Why It Matters</h4>`;
-        html += `<div class="analysis">${esc(s.analysis)}</div>`;
+        html += '<h4>Why It Matters</h4>';
+        html += '<div class="analysis">' + esc(s.analysis) + '</div>';
       }
 
-      html += `</div></div>`;
+      html += '</div></div>';
     });
   }
 
   // Movers
   if (b.movers && b.movers.length) {
-    html += `<div class="movers">`;
-    b.movers.forEach(m => {
-      const bc = biasClass(m.bias);
-      html += `<div class="mover">`;
-      html += `<div class="mover-header">`;
-      html += `<span class="stock">${esc(m.stock)}</span>`;
+    html += '<div class="movers">';
+    b.movers.forEach(function(m) {
+      var bc = biasClass(m.bias);
+      html += '<div class="mover">';
+      html += '<div class="mover-header">';
+      html += '<span class="stock">' + esc(m.stock) + '</span>';
       if (m.bias) {
-        const biasText = m.bias.split('—')[0].trim();
-        html += `<span class="bias-tag ${bc}">${esc(biasText)}</span>`;
+        var biasText = m.bias.split(/[\u2014\u2013-]/)[0].trim();
+        html += '<span class="bias-tag ' + bc + '">' + esc(biasText) + '</span>';
       }
-      html += `</div>`;
-      html += `<div class="mover-body">`;
-      html += `<p><span class="label">Catalyst:</span> ${esc(m.catalyst)}</p>`;
-      if (m.watch) html += `<p><span class="label">Watch:</span> ${esc(m.watch)}</p>`;
-      html += `</div></div>`;
+      html += '</div>';
+      html += '<div class="mover-body">';
+      html += '<p><span class="label">Catalyst:</span> ' + esc(m.catalyst) + '</p>';
+      if (m.watch) html += '<p><span class="label">Watch:</span> ' + esc(m.watch) + '</p>';
+      html += '</div></div>';
     });
-    html += `</div>`;
+    html += '</div>';
   }
 
   // Watchpoints
   if (b.watchpoints && b.watchpoints.length) {
-    html += `<div class="watchpoints">`;
-    html += `<h3>Tomorrow's Watchpoints</h3><ul>`;
-    b.watchpoints.forEach(w => html += `<li>${esc(w)}</li>`);
-    html += `</ul></div>`;
+    html += '<div class="watchpoints">';
+    html += "<h3>Tomorrow's Watchpoints</h3><ul>";
+    b.watchpoints.forEach(function(w) { html += '<li>' + esc(w) + '</li>'; });
+    html += '</ul></div>';
   }
 
   // Sources
   if (b.sources && b.sources.length) {
-    html += `<div class="sources">`;
-    html += `<h3>Sources</h3><ul>`;
-    b.sources.forEach(s => {
+    html += '<div class="sources">';
+    html += '<h3>Sources</h3><ul>';
+    b.sources.forEach(function(s) {
       if (s.url) {
-        html += `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`;
+        html += '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + '</a></li>';
       } else {
-        html += `<li>${esc(s.title)}</li>`;
+        html += '<li>' + esc(s.title) + '</li>';
       }
     });
-    html += `</ul></div>`;
+    html += '</ul></div>';
   }
 
   return html;
 }
 
 function loadBriefing() {
-  const select = document.getElementById('briefing-select');
-  const idx = parseInt(select.value);
-  const b = briefings[idx];
+  var select = document.getElementById('briefing-select');
+  var idx = parseInt(select.value);
+  var b = briefings[idx];
   document.getElementById('content').innerHTML = renderBriefing(b);
 }
 
 async function init() {
   try {
-    const res = await fetch('data/briefings.json');
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    var res = await fetch('data/briefings.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
     briefings = await res.json();
 
     if (!briefings.length) {
@@ -505,13 +564,13 @@ async function init() {
     }
 
     // Populate dropdown
-    const select = document.getElementById('briefing-select');
+    var select = document.getElementById('briefing-select');
     select.innerHTML = '';
-    briefings.forEach((b, i) => {
-      const opt = document.createElement('option');
+    briefings.forEach(function(b, i) {
+      var opt = document.createElement('option');
       opt.value = i;
-      const typeLabel = b.type === 'closing' ? 'Close' : 'Morning';
-      opt.textContent = `${b.date} — ${typeLabel}`;
+      var typeLabel = b.type === 'closing' ? 'Close' : 'Morning';
+      opt.textContent = b.date + ' - ' + typeLabel;
       select.appendChild(opt);
     });
 
@@ -521,7 +580,7 @@ async function init() {
 
   } catch (e) {
     document.getElementById('content').innerHTML =
-      `<div class="empty"><h2>Failed to load</h2><p>${esc(e.message)}</p></div>`;
+      '<div class="empty"><h2>Failed to load</h2><p>' + esc(e.message) + '</p></div>';
   }
 }
 
