@@ -3,7 +3,7 @@
     "date": "2026-06-23",
     "type": "morning",
     "title": "Morning Briefing — 2026-06-23",
-    "generated_at": "2026-06-23T02:03:10.306910Z",
+    "generated_at": "2026-06-23T02:19:36.369143Z",
     "glance": [
       "**Market tone:** Mixed — Iran peace talks cut oil risk premium but IHSG still reeling from sharp 6-week correction.",
       "**Main Indonesia catalyst:** Coal price cap reform stalling PLN supply and grid stability, while government clarifies 60% mining profit-sharing rule to limit sector contagion.",
@@ -40,22 +40,45 @@
         ],
         "analysis": "Falling oil is a double-edged sword for Indonesia: it eases import costs and supports the trade surplus, but pressures coal miners (PTBA, ITMG, ADRO) via lower thermal coal parity and highlights the DMO cap issue. Gold strength supports ANTM and MDKA, both heavily traded retail favorites on IDX.",
         "bias": "**Bearish** — Energy complex undercut by Iran de-escalation; coal DMO cap creates persistent policy overhang for mining sector."
-      },
-      {
-        "title": "Stock Watchlist",
-        "updates": [],
-        "analysis": "",
-        "bias": ""
-      },
-      {
-        "title": "Today's Watchpoints",
-        "updates": [],
-        "analysis": "",
-        "bias": ""
       }
     ],
-    "movers": [],
-    "watchpoints": [],
+    "movers": [
+      {
+        "stock": "ANTM (Aneka Tambang)",
+        "catalyst": "Gold strength at ~$4,179/oz supports gold segment; mining royalty clarification limits worst-case for sector.",
+        "bias": "Mixed",
+        "watch": "Gold price continuation, any royalty policy announcement from ESDM, foreign flow direction."
+      },
+      {
+        "stock": "INCO (Vale Indonesia)",
+        "catalyst": "Nickel supply tightening globally supports price outlook; royalty policy postponed but not resolved.",
+        "bias": "Bullish",
+        "watch": "LME nickel price movement, ESDM royalty decision timing, production guidance updates."
+      },
+      {
+        "stock": "PTBA (Bukit Asam)",
+        "catalyst": "Coal DMO cap at $70/tonne and stalled compensation fund create earnings risk; PLN supply issues reduce offtake certainty.",
+        "bias": "Bearish",
+        "watch": "Compensation fund policy clarity, PLN coal procurement updates, any change to DMO price cap."
+      },
+      {
+        "stock": "MDKA (Merdeka Battery Materials)",
+        "catalyst": "Nickel supply tightness supportive; INNOPROM 2026 participation signals Eurasian market expansion; was #1 foreign net buyer on May 19.",
+        "bias": "Bullish",
+        "watch": "Nickel LME price, foreign net buy streak, INNOPROM deal announcements (July 6-9)."
+      },
+      {
+        "stock": "PUKL (Pupuk Indonesia)",
+        "catalyst": "G-to-G fertilizer exports to Australia (250,000 tonnes total) with talks ongoing for India and Bangladesh; surplus production capacity.",
+        "bias": "Bullish",
+        "watch": "New export deal announcements, urea price trends, domestic-first policy enforcement."
+      }
+    ],
+    "watchpoints": [
+      "IHSG open direction — whether the index builds on possible recovery toward 6,100 or retests the 5,300 lows; June 20 close remains [unverified].",
+      "Oil price stabilization — Brent at $77.90 [unverified]; further Iran de-escalation could push prices lower, impacting coal valuations.",
+      "Mining royalty policy — ESDM's review timeline is the key near-term catalyst for ANTM/INCO/MDKA sector sentiment."
+    ],
     "sources": [
       {
         "title": "IDXChannel — Prospek Sektor Logam: Pasokan Mengetat dan Kebijakan Royalti Jadi Perhatian",
