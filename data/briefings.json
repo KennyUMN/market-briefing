@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-06-23",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-06-23",
+    "generated_at": "2026-06-23T01:11:12.034468Z",
+    "glance": [
+      "**Market tone:** Mixed — Iran peace talks cut oil risk premium but IHSG still reeling from sharp 6-week correction.",
+      "**Main Indonesia catalyst:** Coal price cap reform stalling PLN supply and grid stability, while government clarifies 60% mining profit-sharing rule to limit sector contagion.",
+      "**Main global catalyst:** US-Iran peace talks progressing; Hormuz stays open, sending oil down 3%+ and easing global energy costs.",
+      "**Commodities focus:** Oil (Brent $77.90 [unverified]), gold (~$4,179/oz verified), coal DMO cap at $70/tonne.",
+      "**Stock watchlist:** ANTM, INCO, MDKA, PTBA, PUKL (Pupuk Indonesia)."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "Indonesia's IHSG has been in a sharp correction since late April, falling from ~7,100 to 5,342.14 on June 8 (Katadata), a 5-year low, with all 11 sectors in the red and 661 stocks declining on that day alone.",
+          "IDXTracker notes the index is cheaper than KLCI, SET, and PSEi on P/E despite arguably better fundamentals, with the discount reflecting the negative ratings outlook and FX risk that could resolve in either direction over 18-36 months.",
+          "Most recent confirmed IHSG close (June 8): 5,342.14; June 20 close [unverified] — IDXTracker hints at possible recovery toward 6,100 but no confirmed print."
+        ],
+        "analysis": "The sustained selloff creates a valuation paradox: strong fundamentals (5.61% GDP growth [unverified], 72-month trade surplus, $144.9B FX reserves [unverified]) versus negative ratings momentum and rupiah pressure at 17,838 IDR/USD (Xe.com). A stabilization above 6,100 would meaningfully de-risk near-term downside; below 5,000 would signal a crisis episode.",
+        "bias": "**Mixed** — Fundamentals remain strong but technical damage is severe and foreign flows are closely tied to rupiah and ratings outcomes."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "Indonesia's economy grew 5.61% YoY in Q1 2026 [unverified], outpacing G20 and ASEAN averages, with May inflation at 3.08% [unverified] and budget deficit below 3% of GDP (Antara News).",
+          "Renewable energy mix hit 17.89% as of April 2026 [unverified], surpassing the full-year 2026 target of 16.46%, with RUPTL 2025-2034 allocating 76% of new capacity to renewables (Antara News)."
+        ],
+        "analysis": "Strong macro data supports BI's ability to hold rates while defending the rupiah, but sustained capital outflows mean rate cuts are unlikely until the ratings/FX picture stabilizes. Renewable acceleration could attract ESG-focused foreign inflows.",
+        "bias": "**Bullish** — GDP growth and fiscal discipline provide a credible fundamental floor, though data needs independent verification."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "Brent crude fell 3.31% to $77.90/barrel [unverified] and WTI fell 2.32% to $74.82/barrel [unverified] on US-Iran peace progress and Hormuz staying open (IDXChannel).",
+          "Gold strengthened to ~$4,179/oz, up ~$831 year-on-year (+24.73% YoY), supported by residual geopolitical uncertainty (USA Today, TotalNews).",
+          "PLN remains structurally challenged by the $70/tonne DMO coal price cap, with the compensation fund for miners still in limbo and regulatory gaps in domestic coal flows persisting (Jakarta Post)."
+        ],
+        "analysis": "Falling oil is a double-edged sword for Indonesia: it eases import costs and supports the trade surplus, but pressures coal miners (PTBA, ITMG, ADRO) via lower thermal coal parity and highlights the DMO cap issue. Gold strength supports ANTM and MDKA, both heavily traded retail favorites on IDX.",
+        "bias": "**Bearish** — Energy complex undercut by Iran de-escalation; coal DMO cap creates persistent policy overhang for mining sector."
+      },
+      {
+        "title": "Stock Watchlist",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "IDXChannel — Prospek Sektor Logam: Pasokan Mengetat dan Kebijakan Royalti Jadi Perhatian",
+        "url": "https://www.idxchannel.com/market-news/prospek-sektor-logam-pasokan-mengetat-dan-kebijakan-royalti-jadi-perhatian"
+      },
+      {
+        "title": "IDXChannel — Harga Emas Menguat, Harapan Damai AS-Iran Tekan Harga Minyak",
+        "url": "https://www.idxchannel.com/market-news/harga-emas-menguat-harapan-damai-as-iran-tekan-harga-minyak"
+      },
+      {
+        "title": "IDXChannel — Harga Minyak Jatuh 3 Persen",
+        "url": "https://www.idxchannel.com/market-news/harga-minyak-jatuh-3-persen-optimisme-damai-as-iran-redakan-kekhawatiran-pasokan"
+      },
+      {
+        "title": "Antara News — Indonesia Q1 growth outpaces G20, ASEAN averages",
+        "url": "https://en.antaranews.com/news/419905/indonesia-q1-growth-outpaces-g20-asean-averages-minister-says"
+      },
+      {
+        "title": "Antara News — Indonesia's renewable energy mix gains pace, beats 2026 target",
+        "url": "https://en.antaranews.com/news/419901/indonesias-renewable-energy-mix-gains-pace-beats-2026-target"
+      },
+      {
+        "title": "Antara News — Indonesia in talks with India, Bangladesh on fertilizer exports",
+        "url": "https://en.antaranews.com/news/420003/indonesia-in-talks-with-india-bangladesh-on-fertilizer-exports"
+      },
+      {
+        "title": "Antara News — Indonesia bolsters industrial ties with Eurasia in INNOPROM 2026",
+        "url": "https://en.antaranews.com/news/420015/indonesia-bolsters-industrial-ties-with-eurasia-in-innoprom-2026"
+      },
+      {
+        "title": "The Jakarta Post — PLN shackled by coal price cap, regulatory gaps",
+        "url": "https://www.thejakartapost.com/business/2026/06/22/pln-shackled-by-coal-price-cap-regulatory-gaps"
+      },
+      {
+        "title": "The Jakarta Post — 60% mining profit-sharing rule applies only to certain firms",
+        "url": "https://www.thejakartapost.com/business/2026/06/23/60-mining-profit-sharing-rule-applies-only-to-certain-firms-govt-says"
+      },
+      {
+        "title": "OilPrice.com — World Energy News",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/"
+      },
+      {
+        "title": "Katadata Databoks — IHSG closed down 4.52% to 5,342.14 on June 8",
+        "url": "https://databoks.katadata.co.id/en/market/statistics/6a268eebd4492/continuing-to-weaken-the-indonesia-stock-exchange-composite-index-closed-down-452-to-a-level-of-around-5300-monday-june-8-2026"
+      },
+      {
+        "title": "USA Today — Gold Price Today on June 22, 2026",
+        "url": "https://www.usatoday.com/story/money/personalfinance/2026/06/22/gold-price-on-june-22-2026/90640380007/"
+      },
+      {
+        "title": "TotalNews — Gold price update as of June 22, 2026",
+        "url": "https://totalnews.com/gold-price-update-as-of-june-22-2026/"
+      },
+      {
+        "title": "Xe.com — USD to IDR Exchange Rate",
+        "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=IDR"
+      },
+      {
+        "title": "Trading Economics — Jakarta Stock Exchange Composite Index",
+        "url": "https://tradingeconomics.com/jci:ind"
+      },
+      {
+        "title": "IDXTracker — IHSG Composite, Sectors, Foreign Flows",
+        "url": "https://www.idxtracker.com/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-22",
     "type": "closing",
     "title": "Closing Market Briefing — 2026-06-22",
