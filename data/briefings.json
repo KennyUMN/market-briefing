@@ -1,5 +1,142 @@
 [
   {
+    "date": "2026-06-30",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-06-30",
+    "generated_at": "2026-06-29T19:25:52.369796Z",
+    "glance": [
+      "**Market tone:** Bearish to mixed — IHSG down 31.81% YTD with foreign outflows persisting, but MSCI/FTSE review could be a turnaround catalyst.",
+      "**Main Indonesia catalyst:** MSCI and FTSE index reviews in H2 2026 — a positive outcome could reverse Rp71.68 trillion in YTD foreign net selling.",
+      "**Main global catalyst:** Fed rate hike expectations firming — market pricing two hikes in Jul/Sep and Dec 2026, strengthening USD and pressuring EM currencies.",
+      "**Commodities focus:** Oil softening (WTI ~$70.52, Brent ~$72.85) with OPEC+ modestly raising output; nickel under pressure from potential RKAB quota increase and declining ore quality.",
+      "**Stock watchlist:** BBCA, BBRI, DEWA, ERAA, ENRG."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "IHSG closed Friday at 5,896.13, down 31.81% YTD, with foreign investors net selling Rp71.68 trillion year-to-date (Bisnis.com).",
+          "MSCI and FTSE index review results are the primary H2 2026 catalyst — BEI's new leadership is actively lobbying for reclassification improvements and restoring global investor confidence (Bisnis.com).",
+          "New BEI management targets Rp31 trillion in daily transaction value by 2030, shifting focus from listing quantity to quality, aligning with MSCI free-float and governance requirements (Bisnis.com).",
+          "Friday's session showed defensive rotation: BBCA +2.49%, BBRI +0.70%, BMRI +0.58% while ENRG -10.73%, CUAN -9.60%, BREN -8.22% (Indopremier)."
+        ],
+        "analysis": "The MSCI/FTSE review is the single most important catalyst for IHSG direction this semester. A positive decision could trigger billions in passive inflows. However, until then, foreign selling pressure and USD strength dominate. Watch for BEI governance reforms as a leading indicator of index reclassification odds.",
+        "bias": "**Mixed** — Structural reforms and index review potential are bullish medium-term, but near-term flows and macro headwinds remain bearish."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "Rupiah closed Friday at Rp17,970 per USD, down 0.18%, with analysts forecasting a Rp17,900–Rp18,000 range this week as Fed hike expectations strengthen the dollar (Bisnis.com).",
+          "Minister Bahlil Lahadalia announced industrial gas price cut to US$13/MMBtu under new HGBT scheme, targeted at energy-intensive industries to reduce production costs [unverified] (Bisnis.com).",
+          "BUMN restructuring plan to consolidate to 250 entities targeting Rp50 trillion in savings, freeing fiscal space (Bisnis.com).",
+          "Upcoming domestic data in early July: manufacturing PMI, inflation, and trade balance — all critical for BI policy positioning (Bisnis.com)."
+        ],
+        "analysis": "Rupiah approaching Rp18,000 adds imported inflation risk and constrains BI's ability to ease. The gas price cut, if confirmed, would be a meaningful cost reduction for industrial sectors. Early July data prints will set the tone for rupiah and rate expectations.",
+        "bias": "**Bearish** — Rupiah weakness, Fed hawkish repricing, and fiscal drag dominate near-term. Gas price cut is a potential positive but unverified."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "WTI crude at ~$70.52, Brent at ~$72.85 — prices softening as OPEC+ agreed to raise output by 188,000 bpd starting June 2026, partially unwinding April 2023 voluntary cuts (OilPrice.com, News.iq).",
+          "UAE exiting OPEC+ alliance, with capacity grown to 4.8 million bpd and plans to reach 5 million by 2027 — adds fragmented supply risk (Global Business Outlook).",
+          "Indonesia's nickel sector faces margin pressure: declining ore quality (grades falling from 1.75% to projected 1.45% by 2030), power competition from aluminum projects, and potential RKAB quota increase that could add near-term supply (Petromindo/SMM).",
+          "Strait of Hormuz disruptions limit actual OPEC+ export capacity despite announced increases, keeping a geopolitical floor under prices."
+        ],
+        "analysis": "Softer oil reduces Indonesia's petroleum export revenue but eases fuel subsidy pressure. Nickel margin pressure affects NPI producers (ANTM, INCO, HARITA) while potential RKAB quota increase could depress nickel prices further. Geopolitical risk remains two-sided.",
+        "bias": "**Mixed** — Oil supply rising modestly but Hormuz risk caps downside. Nickel structurally bearish on ore quality and power competition."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "BBCA (Bank Central Asia)",
+        "catalyst": "Defensive rotation — gained +2.49% on Friday as investors sought safety in blue-chip banking.",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "BBRI (Bank Rakyat Indonesia)",
+        "catalyst": "Gained +0.70% Friday alongside banking sector resilience; BUMN restructuring narrative could improve sentiment.",
+        "bias": "Neutral",
+        "watch": ""
+      },
+      {
+        "stock": "DEWA (Darma Henwa)",
+        "catalyst": "First-ever cash dividend of Rp58.6 billion announced alongside board reshuffle — signals improved financial health [unverified].",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "ERAA (Erajaya)",
+        "catalyst": "Bringing Japanese donut brand \"I'm Donut\" to Indonesia in October 2026 — F&B diversification beyond telecom retail [unverified].",
+        "bias": "Mixed",
+        "watch": ""
+      },
+      {
+        "stock": "ENRG (Energi Mega Persada)",
+        "catalyst": "Plunged -10.73% on Friday — energy sector selloff amid oil price weakness and risk-off positioning.",
+        "bias": "Bearish",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "Bisnis.com — Titik Balik Pasar Modal RI Semester II/2026 di Bawah Agenda MSCI dan FTSE",
+        "url": "https://market.bisnis.com/read/20260629/7/1983859/titik-balik-pasar-modal-ri-semester-ii-2026-di-bawah-agenda-msci-dan-ftse"
+      },
+      {
+        "title": "Bisnis.com — Reli IHSG Menunggu Lampu Hijau MSCI dan FTSE",
+        "url": "https://market.bisnis.com/read/20260629/7/1983933/reli-ihsg-menunggu-lampu-hijau-msci-dan-ftse"
+      },
+      {
+        "title": "Bisnis.com — Nilai Tukar Rupiah terhadap Dolar AS, 29 Juni 2026",
+        "url": "https://market.bisnis.com/read/20260629/93/1983983/nilai-tukar-rupiah-terhadap-dolar-as-hari-ini-senin-29-juni-2026"
+      },
+      {
+        "title": "Bisnis.com — Harga Gas Industri Dipotong Jadi US$13/MMBtu",
+        "url": "https://market.bisnis.com/read/20260629/6/1983904/harga-gas-industri-dipotong-jadi-us13-mmbtu-ini-skema-baru-hgbt"
+      },
+      {
+        "title": "Bisnis.com — DEWA Henwa Ratios First-Ever Cash Dividend Rp58.6 Billion",
+        "url": "https://market.bisnis.com/read/20260629/7/1983873/dewa-henwa-kalikan-dividen-tunai-perdana-rp586-miliar-reshuffle-jajaran"
+      },
+      {
+        "title": "Bisnis.com — ERAA Brings Japanese Donut Brand to Indonesia",
+        "url": "https://market.bisnis.com/read/20260629/7/1983916/erajaya-bawa-brand-donat-jepang-im-donut-ke-indonesia-oktober-2026"
+      },
+      {
+        "title": "Bisnis.com — BEI Targets Rp31 Trillion Transaction Value by 2030",
+        "url": "https://market.bisnis.com/read/20260629/7/1983950/bei-target-rp31-triliun-nilai-transaksi-2030-pimpinan-baru-fokusku"
+      },
+      {
+        "title": "OilPrice.com — WTI & Brent Crude Oil Prices",
+        "url": "https://oilprice.com"
+      },
+      {
+        "title": "News.iq — OPEC+ Cuts Oil Production by 188,000 bpd in June 2026",
+        "url": "https://news.iq/en/opec-oil-production-cuts-june-2026/"
+      },
+      {
+        "title": "Global Business Outlook — OPEC+ Announces June Oil Output Hike Amid UAE Exit",
+        "url": "https://globalbusinessoutlook.com/oil-and-gas/opec-announces-june-oil-output-hike-amid-uae-exit/"
+      },
+      {
+        "title": "Petromindo/SMM — Power Emerges as New Battleground for Indonesia's Nickel Smelters",
+        "url": "https://www.petromindo.com/news/article/power-emerges-as-new-battleground-for-indonesia-s-nickel-smelters"
+      },
+      {
+        "title": "Indopremier — IHSG Friday Close and Stock Movers",
+        "url": "https://www.indopremier.com"
+      }
+    ]
+  },
+  {
     "date": "2026-06-23",
     "type": "morning",
     "title": "Morning Briefing — 2026-06-23",
