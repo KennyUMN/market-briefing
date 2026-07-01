@@ -130,6 +130,148 @@
     ]
   },
   {
+    "date": "2026-07-01",
+    "type": "closing",
+    "title": "Closing Market Briefing — 2026-07-01",
+    "generated_at": "2026-07-01T12:10:05.580672Z",
+    "glance": [
+      "Market close tone: **Mixed** — IHSG rebounded but the move was thin amid a deep June drawdown and lingering macro headwinds.",
+      "IHSG driver: A relief rebound after a brutal June (-7.90% MoM), supported by selective buying in energy and basic materials, but financials and transport lagged.",
+      "Foreign flow signal: **unknown** — no net buy/sell figure available from sources today.",
+      "Strong sectors / assets: **Energy (+2.61%), Basic Goods (+2.60%), Infrastructure (+1.38%)** (Kontan).",
+      "Weak sectors / assets: **Transportation (-0.91%), Financials (-0.38%), Consumer Non-Cyclicals (-0.38%)** (Kontan).",
+      "Tomorrow setup: Watch whether the rebound extends or stalls near the 5,700–5,750 resistance zone; monitor overnight USD/IDR and regional equity futures."
+    ],
+    "sections": [
+      {
+        "title": "Market Close Recap",
+        "updates": [
+          "**IHSG closed at 5,695.11**, up 51.92 points or **+0.92%** on the day, snapping the sharp June downtrend (Kontan).",
+          "Market breadth: **378 stocks rose, 248 declined, and 157 were unchanged** (Kontan).",
+          "June performance was severe: IHSG fell **-7.90% MoM** (from 6,127.38 to 5,643.19) and is down **-34.74% YtD** (Kontan).",
+          "Total equity trading volume reached **18.33 billion shares** with a value of **Rp 10.16 trillion** (Kontan)."
+        ],
+        "analysis": "The rebound is technically welcome after June’s capitulation, but without visible foreign inflows and with the index still down sharply year-to-date, this looks more like a relief bounce than a confirmed bottom. The 5,700–5,750 zone is the first resistance to watch; failure to hold above 5,650 could see a retest of the June lows.",
+        "bias": "**Mixed** — The bounce is constructive but thin, and the broader trend remains under pressure from rupiah weakness and external sentiment risks.\n\n---"
+      },
+      {
+        "title": "Sector and Flow Recap",
+        "updates": [
+          "**Top performing sectors today:** Energy (+2.61%), Basic Goods (+2.60%), and Infrastructure (+1.38%) led the index higher (Kontan).",
+          "**Weakest sectors today:** Transportation fell **-0.91%**, while Financials and Consumer Non-Cyclicals each dropped **-0.38%** (Kontan).",
+          "**Top LQ45 gainers:** CUAN (+16.98%), MBMA (+10.39%), BRPT (+7.39%) (Kontan).",
+          "**Top LQ45 losers:** CPIN (-6.76%), UNTR (-4.24%), PGEO (-2.78%) (Kontan).",
+          "Foreign net buy/sell flow: **unknown** — no flow data available in today’s sources."
+        ],
+        "analysis": "The leadership from Energy and Basic Goods suggests some bargain hunting in beaten-down commodity names, while the weakness in Financials reflects ongoing concern about NIM compression after the recent BI-Rate hike to 5.75%. Without foreign flow confirmation, it is unclear whether this rotation is sustainable or just short-term repositioning.",
+        "bias": "**Mixed** — Sector rotation favors cyclical recovery plays for now, but financials dragging limits index upside conviction.\n\n---"
+      },
+      {
+        "title": "Economic and Policy Updates",
+        "updates": [
+          "**BI-Rate stands at 5.75%** after the June hike, with the deposit facility at 4.75% and lending facility at 6.50% (Kontan / IDX Tracker).",
+          "**Rupiah spot closed at Rp 17,952/USD**, down 0.25% from Rp 17,907; Jisdor at Rp 17,961/USD (Kontan).",
+          "**Indonesia posted a trade deficit of US$1.61 billion in May 2026**, the first deficit in six years (ending a 72-month surplus streak), driven by a surge in oil & gas imports (+70.78% YoY) (Kontan).",
+          "**Inflation for June 2026 came in at 3.34% YoY**, remaining within Bank Indonesia’s target range (Kontan).",
+          "**BEI suspended 24 stocks** starting July 1 as the negative equity relaxation period ended; 13 additional stocks remain under continued suspension (Kontan)."
+        ],
+        "analysis": "The return of a trade deficit after six years is a material macro shift that adds fundamental pressure to the rupiah and raises the risk of further BI hawkishness. The BEI suspensions could dampen retail sentiment and reduce liquidity in small-cap names, while controlled inflation gives BI some room to prioritize currency stability over growth.",
+        "bias": "**Bearish** — The trade deficit and rupiah depreciation are clear negatives; policy is leaning defensive.\n\n---"
+      },
+      {
+        "title": "Commodities and Macro Assets",
+        "updates": [
+          "**Gold spot** was quoted at **US$3,987.47/oz** as of 17:29 WIB on July 1, falling **~12.07% MoM** from May levels, with Antam gold down **5.19% MoM** to Rp 2,630,000/gram (Kontan).",
+          "The **rupiah weakened against the USD** but strengthened against most other global currencies in June (AUD +3.66%, EUR +1.91%, JPY +1.74%, SGD +1.20% MoM), reflecting broad USD strength rather than IDR-specific weakness (Kontan).",
+          "Indonesia’s May trade deficit was fueled by **oil & gas imports of US$3.76 billion** (+70.78% YoY), underscoring energy import vulnerability (Kontan)."
+        ],
+        "analysis": "Falling gold prices reflect resilient USD and higher-for-longer rate expectations, which also cap rupiah recovery. The energy import bill is a structural vulnerability: if oil prices remain elevated, the trade deficit could persist, keeping BI in a hawkish stance and pressuring import-sensitive sectors.",
+        "bias": "**Bearish** — Strong USD and energy import costs are tail risks for rupiah stability and import-heavy corporates.\n\n---"
+      }
+    ],
+    "movers": [
+      {
+        "stock": "CUAN (Petrindo Jaya Kreasi Tbk)",
+        "catalyst": "Top LQ45 gainer, surged **+16.98%** during the session (Kontan).",
+        "bias": "Bullish",
+        "watch": "Whether the rally holds above today’s close or faces profit-taking; watch for any commodity price follow-through or broker commentary."
+      },
+      {
+        "stock": "MBMA (Merdeka Battery Materials Tbk)",
+        "catalyst": "Second-best LQ45 performer, up **+10.39%**, likely on battery-metal sentiment (Kontan).",
+        "bias": "Bullish",
+        "watch": "Nickel price action and any updates on offtake agreements or production guidance."
+      },
+      {
+        "stock": "BRPT (Barito Pacific Tbk)",
+        "catalyst": "Third top gainer in LQ45, rising **+7.39%** (Kontan).",
+        "bias": "Bullish",
+        "watch": "Energy sector momentum and coal/oil price moves that could affect sentiment on the name."
+      },
+      {
+        "stock": "MAPA (MAP Aktif Adiperkasa Tbk)",
+        "catalyst": "Announced acquisition of **Sports Direct** for **Rp 2.505 trillion** (Kontan).",
+        "bias": "Mixed",
+        "watch": "Market reaction to deal financing and integration timeline; watch for any rights issue or debt plan disclosures."
+      },
+      {
+        "stock": "MPPA (Matahari Putra Prima Tbk)",
+        "catalyst": "Conducting a **rights issue of up to Rp 1.19 trillion** (max ~64.9% dilutive) at Rp 50/share; majority shareholder MLPL fully backstopped (Kontan).",
+        "bias": "Mixed",
+        "watch": "Subscription rate and any selling pressure from non-participating holders; MLPL’s willingness to absorb unsold shares limits downside but dilution risk remains."
+      },
+      {
+        "stock": "INTP (Indocement Tunggal Prakarsa Tbk)",
+        "catalyst": "Facing cement industry overcapacity with utilization around **~52%**; Q1-2026 revenue fell **-3.3% YoY** to Rp 3.84 trillion, though net profit edged up +2.1% (Kontan).",
+        "bias": "Bearish",
+        "watch": "Any government infrastructure or IKN spending news that could lift cement demand; otherwise, sector headwinds persist."
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "Kontan — IHSG Rebound 0,92% ke 5.695 pada Rabu (1/7), CUAN, MBMA, BRPT Top Gainers LQ45",
+        "url": "https://investasi.kontan.co.id/news/ihsg-rebound-092-ke-5695-pada-rabu-17-cuan-mbma-brpt-top-gainers-lq45"
+      },
+      {
+        "title": "Kontan — IHSG Anjlok Hampir 8% pada Juni, Ini Tiga Faktor Penyebabnya",
+        "url": "https://investasi.kontan.co.id/news/ihsg-anjlok-hampir-8-pada-juni-ini-tiga-faktor-penyebabnya"
+      },
+      {
+        "title": "Kontan — Rupiah Melemah Jadi Rp 17.952 per Dolar AS, Tertekan Defisit Neraca Perdagangan",
+        "url": "https://investasi.kontan.co.id/news/rupiah-melemah-jadi-rp-17952-per-dolar-as-tertekan-defisit-neraca-perdagangan"
+      },
+      {
+        "title": "Kontan — Rupiah Menguat terhadap Mata Uang Global pada Juni, Efek Dolar AS Masih Dominan",
+        "url": "https://investasi.kontan.co.id/news/rupiah-menguat-terhadap-mata-uang-global-pada-juni-efek-dolar-as-masih-dominan"
+      },
+      {
+        "title": "Kontan — Relaksasi Ekuitas Negatif Berakhir, BEI Suspensi 24 Saham Mulai 1 Juli 2026",
+        "url": "https://investasi.kontan.co.id/news/relaksasi-ekuitas-negatif-berakhir-bei-suspensi-24-saham-mulai-1-juli-2026"
+      },
+      {
+        "title": "Kontan — Harga Emas Spot dan Antam Kompak Turun pada Juni, Ini Penyebabnya",
+        "url": "https://investasi.kontan.co.id/news/harga-emas-spot-dan-antam-kompak-turun-pada-juni-ini-penyebabnya"
+      },
+      {
+        "title": "Kontan — MAPA Akuisisi Sports Direct Senilai Rp 2,505 Triliun, Ini Detailnya",
+        "url": "https://investasi.kontan.co.id/news/mapa-akuisisi-sports-direct-senilai-rp-2505-triliun-ini-detailnya"
+      },
+      {
+        "title": "Kontan — Matahari (MPPA) Gelar Rights Issue Rp1,19 Triliun, Mayoritas Dana untuk Akuisisi Aset",
+        "url": "https://investasi.kontan.co.id/news/matahari-mppa-gelar-rights-issue-rp119-triliun-mayoritas-dana-untuk-akuisisi-aset"
+      },
+      {
+        "title": "Kontan — Indocement (INTP) Masih Dibayangi Kelebihan Pasokan Semen, Begini Prospek Sahamnya",
+        "url": "https://investasi.kontan.co.id/news/indocement-intp-masih-dibayangi-kelebihan-pasokan-semen-begini-prospek-sahamnya"
+      },
+      {
+        "title": "IDX Tracker — IHSG Composite, Sectors, Foreign Flows (snapshot)",
+        "url": "https://www.idxtracker.com/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "type": "morning",
     "title": "Morning Briefing — 2026-06-30",
