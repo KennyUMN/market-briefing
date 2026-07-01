@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-07-01",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-01",
+    "generated_at": "2026-07-01T01:13:23.594979Z",
+    "glance": [
+      "**Market tone:** Bearish — IHSG crashed 3.05% to 5,643 on June 30, closing the worst first-half in years.",
+      "**Main Indonesia catalyst:** Rupiah breaching Rp17,900/USD and FFR expectations keeping foreign flows defensive.",
+      "**Main global catalyst:** Wall Street hit record highs (Dow >52,000) while oil posted its largest quarterly decline since 2020.",
+      "**Commodities focus:** Oil (Brent ~$73, WTI ~$69.50) and gold (~$4,008) — both saw significant quarterly selloffs.",
+      "**Stock watchlist:** PTBA, UNTR, MTEL, AADI."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "IHSG collapsed 3.05% (−177 points) to close at 5,643.19 on June 30, closing the first half of 2026 in deep red (Kontan, verified via pakrw.id/Vivanews).",
+          "Pilarmas Investindo projects IHSG trading range of 5,520–5,740 today, with support at 5,520–5,540 and risk of further slide to 5,472 if support breaks (Kontan).",
+          "Historical seasonality data shows July has a 100% probability of gains (avg +2.88%) over the past 10 years, but this year'sdeep correction may override the pattern [unverified] (IDXChannel)."
+        ],
+        "analysis": "The 3%+ single-day crash signals aggressive selling pressure; with rupiah above Rp17,900/USD [unverified] and Fed rate cut expectations pushed to September, foreign outflows may persist. Watch whether IHSG holds 5,520 — a break below opens path to 5,472.",
+        "bias": "**Bearish** — Broad selling across large caps, weakening rupiah, and tight global liquidity conditions dominate near-term sentiment despite favorable July seasonality."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "Mirae Asset warns that despite improving global sentiment (Middle East tensions easing), FFR at 3.75% is expected to rise 25bps each in September and December to 4.25% by year-end [unverified] (IDXChannel).",
+          "Global growth projection revised down from 3.3% to 3.1%; Indonesia GDP growth trimmed from 5.1% to 5.0% [unverified] (IDXChannel).",
+          "Pertamina cut non-subsidized fuel prices (Pertamax Turbo, Dex series, Avtur) effective July 1, tracking falling global oil prices (IDXChannel)."
+        ],
+        "analysis": "Higher-for-longer FFR keeps pressure on rupiah and foreign capital flows into Indonesia. However, lower domestic fuel prices should help moderate inflation and support consumer purchasing power.",
+        "bias": "**Bearish** — Tightening global monetary conditions outweigh the mild inflation relief from lower fuel prices."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "Brent crude closed at $72.92/barrel (−0.3%) and WTI at $69.50/barrel (−1.8%) on June 30, with oil posting its largest monthly and quarterly decline since the COVID-19 crash of 2020 (IDXChannel, Brent verified via Yahoo Finance at $72.95).",
+          "Gold spot fell to $4,007.52/oz (−0.23%), recording a 11.74% decline in June — the worst quarterly drop in 13 years (IDXChannel, verified via Yahoo Finance at $4,009.30).",
+          "Organda warns that B50 biodiesel mandate could increase vehicle engine maintenance costs for transport operators, with fleets not designed for high biodiesel blends (IDXChannel)."
+        ],
+        "analysis": "Falling oil prices reduce energy export revenue but lower industrial costs and inflation pressure. Gold's sharp quarterly correction signals shifting safe-haven dynamics. B50 supports CPO demand (positive for palm oil stocks like AALI, SGRO) but raises logistics costs.",
+        "bias": "**Bearish** — Both oil and gold in sharp downtrends; commodity-linked Indonesian stocks (PTBA, UNTR, ADRO, ANTM, MDKA) face margin pressure."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "PTBA (Bukit Asam)",
+        "catalyst": "Merging two subsidiaries (BEI into BEST) per Danantara directive to streamline BUMN operations and improve efficiency.",
+        "bias": "Neutral",
+        "watch": ""
+      },
+      {
+        "stock": "UNTR (United Tractors)",
+        "catalyst": "Ended buyback program early on June 30, having spent Rp860 billion of Rp2 trillion budget to repurchase 35.5 million shares.",
+        "bias": "Mixed",
+        "watch": ""
+      },
+      {
+        "stock": "MTEL (Mitratel)",
+        "catalyst": "Distributing Rp2.08 trillion total dividend (Rp25.63/share), combining regular dividend Rp18.3/share and special dividend Rp7.3/share from retained earnings.",
+        "bias": "Bullish",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "Kontan — IHSG Berpotensi Melemah Lagi, Rekomendasi Saham untuk Hari Ini (1/7)",
+        "url": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-untuk-hari-ini-17-ihsg-berpotensi-melemah-lagi"
+      },
+      {
+        "title": "IDXChannel — IHSG Tertekan sejak Januari, Akankah Pola Positif Juli Terulang?",
+        "url": "https://www.idxchannel.com/market-news/ihsg-tertekan-sejak-januari-akankah-pola-positif-juli-terulang"
+      },
+      {
+        "title": "IDXChannel — Mirae Asset: Sentimen Global Membaik, Pergerakan IHSG Masih Dibayangi Suku Bunga Tinggi",
+        "url": "https://www.idxchannel.com/market-news/mirae-asset-sentimen-global-membaik-pergerakan-ihsg-masih-dibayangi-suku-bunga-tinggi"
+      },
+      {
+        "title": "IDXChannel — Harga BBM Pertamax Turbo, Dex Series, hingga Avtur Turun per 1 Juli 2026",
+        "url": "https://www.idxchannel.com/economics/harga-bbm-pertamax-turbo-dex-series-hingga-avtur-turun-per-1-juli-2026"
+      },
+      {
+        "title": "IDXChannel — Harga Minyak Catat Penurunan Bulanan dan Kuartalan Terbesar Sejak 2020",
+        "url": "https://www.idxchannel.com/market-news/harga-minyak-catat-penurunan-bulanan-dan-kuartalan-terbesar-sejak-2020"
+      },
+      {
+        "title": "IDXChannel — Harga Emas Catat Penurunan Kuartalan Terburuk dalam 13 Tahun",
+        "url": "https://www.idxchannel.com/market-news/harga-emas-catat-penurunan-kuartalan-terburuk-dalam-13-tahun"
+      },
+      {
+        "title": "IDXChannel — Pengusaha Angkutan Sebut Penerapan B50 Berpotensi Tingkatkan Biaya Perawatan Mesin",
+        "url": "https://www.idxchannel.com/economics/pengusaha-angkutan-sebut-penerapan-b50-berpotensi-tingkatkan-biaya-perawatan-mesin"
+      },
+      {
+        "title": "IDXChannel — PTBA Gabung Dua Anak Usaha Sesuai Arahan Danantara",
+        "url": "https://www.idxchannel.com/market-news/ptba-gabung-dua-anak-usaha-sesuai-arahan-danantara"
+      },
+      {
+        "title": "IDXChannel — Akhiri Buyback Saham, UNTR Habiskan Anggaran Rp860 Miliar",
+        "url": "https://www.idxchannel.com/market-news/akhiri-buyback-saham-untr-habiskan-anggaran-rp860-miliar"
+      },
+      {
+        "title": "IDXChannel — Mitratel (MTEL) Bagikan Dividen Tunai dan Spesial Rp2,08 Triliun",
+        "url": "https://www.idxchannel.com/market-news/mitratel-mtel-bagikan-dividen-tunai-dan-spesial-rp208-triliun"
+      },
+      {
+        "title": "IDXChannel — IHSG Masih Rawan Koreksi hingga 5.472, Simak Analisa Saham AADI-RAJA",
+        "url": "https://www.idxchannel.com/market-news/ihsg-masih-rawan-koreksi-hingga-5472-simak-analisa-saham-aadi-raja"
+      },
+      {
+        "title": "Yahoo Finance — Brent Crude (BZ=F)",
+        "url": "https://finance.yahoo.com/quote/BZ=F/"
+      },
+      {
+        "title": "Yahoo Finance — Gold (GC=F)",
+        "url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "title": "pakrw.id — IHSG Ambruk ke Level 5643 Akhir Semester 2026",
+        "url": "https://www.pakrw.id/ihsg-ambruk-ke-level-5643-akhir-semester-2026"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "type": "morning",
     "title": "Morning Briefing — 2026-06-30",
