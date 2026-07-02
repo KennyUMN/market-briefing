@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-07-02",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-02",
+    "generated_at": "2026-07-02T01:08:46.954177Z",
+    "glance": [
+      "**Market tone:** Mixed — IHSG rebounded +0.92% to 5,695 but structural weakness persists with key support at 5,472-5,540.",
+      "**Main Indonesia catalyst:** June inflation at 0.44% (BPS data) driven by gasoline prices, giving BI room to hold rates.",
+      "**Main global catalyst:** US-Iran negotiation stall keeps geopolitical risk premium alive; Fed policy uncertainty weighs on sentiment.",
+      "**Commodities focus:** WTI crude at $67.75 (4-month low), gold stabilizing above $4,000 at $4,052.",
+      "**Stock watchlist:** GOTO, MAPA, BIPI, ESSA, COCO."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "IHSG closed at 5,695 on July 1, up 51.93 points (+0.92%), after opening lower at 5,640 and hitting intraday high of 5,737 (IDX Channel).",
+          "391 stocks advanced, 263 declined, with transaction value reaching Rp10.26 trillion across 17.06 billion shares (IDX Channel).",
+          "Despite the bounce, analysts flag key support at 5,472-5,540; prior close before the rebound was 5,643.19 (down 3.05%), indicating underlying selling pressure remains (IDX Channel).",
+          "Asian markets opened Q3 mixed as investors weigh US-Iran diplomatic hurdles and potential Japanese intervention after yen hit 40-year lows (Reuters via IDX Channel)."
+        ],
+        "analysis": "The rebound from morning lows shows dip-buying support, but the broader structure remains fragile. If 5,472-5,540 support holds, range-bound trading near 5,600-5,740 is likely. A break below 5,472 could trigger accelerated selling. Foreign flows and rupiah stability will be key determinants this week.",
+        "bias": "**Mixed** — Short-term bounce intact but structural trend still weak; need a daily close above 5,740 to shift momentum bullish."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "Indonesia's June 2026 inflation came in at 0.44% (BPS data via IDX Channel), primarily driven by gasoline/petroleum price increases [unverified — BPS website blocked, single source].",
+          "Ministry of PKP targets 97.48% budget absorption by end of 2026, signaling fiscal spending acceleration in H2 (IDX Channel)."
+        ],
+        "analysis": "Moderate inflation gives Bank Indonesia flexibility to maintain or ease rates, which supports equity valuations. The gasoline-driven inflation may squeeze consumer purchasing power but benefits energy-linked revenue. Strong fiscal spending absorption in H2 could support infrastructure and construction sectors.",
+        "bias": "**Neutral** — Inflation manageable; fiscal spending supportive but impact depends on execution."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "WTI crude oil fell to $67.75, down 1.21% ($0.83), trading at a 4-month low since March as US-Iran negotiation optimism reduces supply risk premium (Yahoo Finance, IDX Channel).",
+          "Gold stabilized at $4,052.00, down 0.74% (-$30.40), after rebounding above $4,000 following a 14% quarterly drop; supported by weak US jobs data and Fed signaling (Yahoo Finance).",
+          "Coal supply policy in focus: government emphasizes need to reform RKAB (mining work plan) governance to secure PLTU coal supply (IDX Channel)."
+        ],
+        "analysis": "Lower oil prices benefit Indonesia as a net importer — reduced current account pressure and lower fuel subsidy burden. However, falling oil pressures energy sector stocks. Gold stabilizing above $4,000 supports Indonesian gold miners (ANTM, MDKA). Coal policy reforms may add regulatory uncertainty for coal miners (PTBA, ITMG, HRUM) but ensure supply stability.",
+        "bias": "**Mixed** — Oil bearish on reduced supply risk, gold neutral-to-bullish on safe-haven demand, coal regulatory uncertainty."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "GOTO",
+        "catalyst": "Ride-hailing commission capped at 8% by regulation, squeezing take rates and margins.",
+        "bias": "Bearish",
+        "watch": ""
+      },
+      {
+        "stock": "MAPA (MAP Active)",
+        "catalyst": "Rp25 trillion acquisition of Sports Direct Malaysia from Fraser Group — major regional expansion.",
+        "bias": "Mixed",
+        "watch": ""
+      },
+      {
+        "stock": "BIPI",
+        "catalyst": "Analyst recommendation amid IHSG weakness; selected as a potential upside pick.",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "ESSA",
+        "catalyst": "Analyst recommendation amid IHSG weakness; selected as a potential upside pick.",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "COCO",
+        "catalyst": "Top gainer on July 1 session with strong volume; momentum play.",
+        "bias": "Bullish",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "IDX Channel — IHSG Berakhir Menguat ke 5.695, COCO-BBRM Pimpin Top Gainers",
+        "url": "https://www.idxchannel.com/market-news/ihsg-berakhir-menguat-ke-5695-coco-bbrm-pimpin-top-gainers"
+      },
+      {
+        "title": "IDX Channel — IHSG Masih Rawan Melemah, Uji Rentang 5.472-5.540",
+        "url": "https://www.idxchannel.com/market-news/ihsg-masih-rawan-melemah-untuk-uji-rentang-5472-5540-cek-analisa-empat-saham-berikut"
+      },
+      {
+        "title": "IDX Channel — Inflasi Juni 2026: 0,44 Persen",
+        "url": "https://www.idxchannel.com/economics/inflasi-juni-2026-044-persen-pertumbuhan-harga-minyak-bumi-jadi-penyumbang-utama"
+      },
+      {
+        "title": "IDX Channel — Kementerian PKP Targetkan Serapan Anggaran 97,48%",
+        "url": "https://www.idxchannel.com/economics/kementerian-pkp-targetkan-serapan-anggaran-9748-persen-di-akhir-2026"
+      },
+      {
+        "title": "Yahoo Finance — WTI Crude Oil (CL=F)",
+        "url": "https://finance.yahoo.com/quote/CL=F/"
+      },
+      {
+        "title": "Yahoo Finance — Gold (GC=F)",
+        "url": "https://finance.yahoo.com/quote/GC=F/"
+      },
+      {
+        "title": "IDX Channel — Jaga Pasokan Batu Bara PLTU",
+        "url": "https://www.idxchannel.com/economics/jaga-pasokan-batu-bara-pltu-tata-kelola-rkab-perlu-dibenahi"
+      },
+      {
+        "title": "IDX Channel — WIFI Sebar Dividen Rp1.062 Miliar",
+        "url": "https://www.idxchannel.com/market-news/wifi-sebar-dividen-rp1062-miliar-cair-akhir-juli-2026"
+      },
+      {
+        "title": "IDX Channel — Potongan Komisi Ojol Jadi 8 Persen, Dampak ke GOTO",
+        "url": "https://www.idxchannel.com/market-news/potongan-komisi-ojol-jadi-8-persen-intip-dampaknya-ke-goto"
+      },
+      {
+        "title": "IDX Channel — MAPA Ambil Alih Sports Direct Malaysia Rp25 Triliun",
+        "url": "https://www.idxchannel.com/market-news/map-active-mapa-ambil-alih-sports-direct-malaysia-dari-fraser-group-rp25-triliun"
+      },
+      {
+        "title": "Xe — USD/IDR Exchange Rate",
+        "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=IDR"
+      },
+      {
+        "title": "Reuters via IDX Channel — Bursa Asia Beragam, Investor Cermati The Fed dan AS-Iran",
+        "url": "https://www.idxchannel.com/market-news/bursa-asia-beragam-investor-cermati-kebijakan-the-fed-dan-ketegangan-as-iran"
+      }
+    ]
+  },
+  {
     "date": "2026-07-01",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-01",
