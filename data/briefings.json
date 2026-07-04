@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-07-04",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-04",
+    "generated_at": "2026-07-04T01:08:03.473529Z",
+    "glance": [
+      "**Market tone:** Mixed — global risk appetite improves on soft US jobs data, but Indonesia-specific headwinds persist.",
+      "**Main Indonesia catalyst:** Manufacturing PMI plunges to 46.9 [unverified], signaling deep contraction; APBN 2027 macro assumptions agreed by DPR and Prabowo.",
+      "**Main global catalyst:** Weak US June jobs data eases Fed hike fears, lifting regional equities and gold while capping the dollar.",
+      "**Commodities focus:** Gold near $4,200 ($4,187.30 verified), WTI crude stable at $68.78, Newcastle coal above $150/ton [unverified].",
+      "**Stock watchlist:** ADRO, ITMG, PTBA (coal), ANTM (gold), BMRI/BBRI (INA portfolio)."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "Asian stocks rose Friday as weak US jobs data eased Fed hike concerns, with Seoul's Kospi up over 2% and most regional indices in the green, though Jakarta was among the laggards (The Jakarta Post).",
+          "Indonesian bond markets are seeing improved foreign demand with combined government and BI bonds recording $9 billion YTD net inflow [unverified], though the stock market remains stuck in a slump as foreign outflows persist (The Jakarta Post)."
+        ],
+        "analysis": "The global tailwind from fading Fed hike expectations could support IHSG sentiment this week, but Indonesia's structural issues — MSCI downgrade risk, persistent foreign selling, and weak manufacturing — mean any rally is likely fragile and externally driven rather than fundamentally sustained.",
+        "bias": "**Mixed** — Global conditions are turning supportive, but local fundamentals remain weak and foreign flows are still negative."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "Indonesia's manufacturing PMI plunged to 46.9 in June from 50.0 in May [unverified], the sharpest contraction in a year, with factory-gate prices rising at the fastest pace in nearly 13 years (The Jakarta Post).",
+          "The DPR and President Prabowo have agreed on macro assumptions and the APBN 2027 posture, providing fiscal policy clarity for markets, though specific figures remain undisclosed in accessible sources (Bisnis Indonesia)."
+        ],
+        "analysis": "Deep manufacturing contraction signals GDP growth risk for Q3, while surging factory-gate prices suggest stagflationary pressure — rising costs without corresponding demand — that could squeeze corporate margins and pressure BI to maintain tight monetary policy.",
+        "bias": "**Bearish** — Manufacturing contraction and cost-push inflation create a stagflationary signal that weighs on both growth and rate-cut expectations."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "WTI crude closed at $68.78 (+0.13%) on July 3, holding recent losses as US-Iran talks progress toward a 60-day roadmap to reopen the Strait of Hormuz (Yahoo Finance, The Jakarta Post).",
+          "Gold climbed to $4,187.30 (+1.49%) on July 3, approaching $4,200 for the first time in two weeks as weak US jobs data weakened the dollar and lowered Fed hike odds (Yahoo Finance).",
+          "Newcastle coal benchmark near two-year highs above $150/ton [unverified], driven by China's Shanxi mine disaster tightening domestic supply and Indonesia's Danantara transition creating export uncertainty, with China's June thermal coal imports expected up 27.6% YoY (The Jakarta Post)."
+        ],
+        "analysis": "Stable-to-lower oil supports Indonesia's import bill and rupiah stability, but the coal price surge is a double-edged sword: it boosts earnings for coal miners (ADRO, ITMG, PTBA) while the Danantara consolidation creates regulatory uncertainty that could cap valuations. Gold strength benefits ANTM and MDKA.",
+        "bias": "**Mixed** — Oil weakness supports the trade balance, coal strength benefits miners but with regulatory overhang, and gold strength is a tailwind for precious metal producers."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "ADRO (Adaro Energy)",
+        "catalyst": "Newcastle coal above $150/ton [unverified]; China mine disaster tightening supply; potential 27.6% YoY rise in China's June coal imports.",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "ANTM (Aneka Tambang)",
+        "catalyst": "Gold at $4,187.30 (+1.49%), approaching $4,200; Bisnis Indonesia reports gold jewelry prices rising again on July 4.",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "BMRI (Bank Mandiri)",
+        "catalyst": "INA sovereign wealth fund holds seed capital in Bank Mandiri shares; INA AUM plateaued at Rp 146.2 trillion [unverified] due to market volatility; APBN 2027 agreement may clarify fiscal spending path.",
+        "bias": "Neutral",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "The Jakarta Post — Asian markets rise as beaten tech stocks enjoy respite from selling",
+        "url": "https://www.thejakartapost.com/business/2026/07/03/asian-markets-rise-as-beaten-tech-stocks-enjoy-respite-from-selling"
+      },
+      {
+        "title": "The Jakarta Post — RI bond market improves as stocks stuck in slump",
+        "url": "https://www.thejakartapost.com/business/2026/06/30/ri-bond-market-improves-as-stocks-stuck-in-slump"
+      },
+      {
+        "title": "The Jakarta Post — Factories struggling amid muted demand, surging costs",
+        "url": "https://www.thejakartapost.com/business/2026/07/02/factories-struggling-amid-muted-demand-surging-costs"
+      },
+      {
+        "title": "The Jakarta Post — INA sees no need for bond issuance amid ample capital",
+        "url": "https://www.thejakartapost.com/business/2026/07/03/ina-sees-no-need-for-bond-issuance-amid-ample-capital"
+      },
+      {
+        "title": "The Jakarta Post — Crude prices drop after positive US-Iran talks",
+        "url": "https://www.thejakartapost.com/business/2026/06/22/crude-prices-drop-after-positive-us-iran-talks"
+      },
+      {
+        "title": "The Jakarta Post — China mine disaster, Indonesia policy changes upend global coal market",
+        "url": "https://www.thejakartapost.com/business/2026/06/17/china-mine-disaster-indonesia-policy-changes-upend-global-coal-market"
+      },
+      {
+        "title": "The Jakarta Post — Indonesia's market status downgrade still possible, says MSCI",
+        "url": "https://www.thejakartapost.com/business/2026/06/24/msci-keeps-indonesia-in-emerging-market-category-but-under-close-watch"
+      },
+      {
+        "title": "The Jakarta Post — Peace hope brings market rebounds but RI not out of the woods yet",
+        "url": "https://www.thejakartapost.com/business/2026/06/16/peace-hope-brings-market-rebounds-but-ri-not-out-of-the-woods-yet"
+      },
+      {
+        "title": "Bisnis Indonesia — Asumsi Makro dan Postur APBN 2027 Disepakati DPR dan Prabowo",
+        "url": "https://www.bisnis.com/ekonomi/asumsi-makro-dan-postur-apbn-2027-disepakati-dpr-dan-prabowo-ini-daftar-lengkapnya"
+      },
+      {
+        "title": "Yahoo Finance — Gold (GC=F)",
+        "url": "https://finance.yahoo.com/quote/GC%3DF/"
+      },
+      {
+        "title": "Yahoo Finance — Crude Oil (CL=F)",
+        "url": "https://finance.yahoo.com/quote/CL%3DF/"
+      },
+      {
+        "title": "Xe.com — USD to IDR",
+        "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=IDR"
+      }
+    ]
+  },
+  {
     "date": "2026-07-02",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-02",
