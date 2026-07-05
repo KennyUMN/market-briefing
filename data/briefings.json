@@ -1,5 +1,156 @@
 [
   {
+    "date": "2026-07-05",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-05",
+    "generated_at": "2026-07-05T01:09:11.704473Z",
+    "glance": [
+      "**Market tone:** Mixed — IHSG closed the week slightly down but posted a strong 2.28% rally on the last trading day, facing resistance at MA20.",
+      "**Main Indonesia catalyst:** Persistent foreign net selling (Rp2.95T weekly, Rp74T YTD) concentrated in big banks, offset by strong IPO demand (JELI 273x oversubscribed).",
+      "**Main global catalyst:** Barclays expects Fed Chair Kevin Warsh [unverified] to hold rates long-term, with labor market moderation and potential late-year hike still in play.",
+      "**Commodities focus:** WTI crude at $68.78, Brent at $72.13 — both stable as Strait of Hormuz transit normalizes, reducing geopolitical risk premium.",
+      "**Stock watchlist:** BBCA, BBRI, JELI, TAXI, PIKO."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "IHSG closed the week at 5,875.780, down 0.35% from 5,896.134, with market capitalization slipping 0.14% to Rp10.287 trillion (IDX Channel/BEI).",
+          "MNC Sekuritas notes IHSG rallied 2.28% on the final trading day but was resisted by MA20, with support at 5,486/5,317 and resistance at 6,007/6,286 (IDX Channel).",
+          "Average daily transaction volume plunged 30.35% to 17.54 billion shares, and frequency fell 16.71% to 1.44 million, signaling weakening participation (IDX Channel/BEI)."
+        ],
+        "analysis": "The sharp volume decline alongside a mild weekly loss suggests the market is in consolidation rather than distribution, but the 2.28% single-day rally shows buyers are stepping in — a break above 6,007 could trigger momentum, while losing 5,486 opens path to 5,317.",
+        "bias": "**Mixed** — Weekly bearish price action but bullish intraday momentum and strong IPO demand indicate conflicting forces at current levels."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "Barclays predicts the Fed will hold rates for an extended period under Chair Kevin Warsh [unverified], with US jobs data showing moderation from slowing immigration and supply constraints (IDX Channel).",
+          "Vietnam and the Philippines have been upgraded to upper-middle-income status by the World Bank, raising questions about Indonesia's reform pace needed to advance further (IDX Channel)."
+        ],
+        "analysis": "A prolonged Fed hold supports rupiah stability and EM inflows, but any late-year hike expectation could reverse foreign flows — particularly relevant given the Rp74T YTD foreign net sell from Indonesian equities.",
+        "bias": "**Mixed** — Fed hold is supportive for rupiah but the Robert Warsh identity [unverified] and late-year hike risk create uncertainty; regional income upgrades add competitive pressure on Indonesia."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "WTI crude closed at $68.78 (+0.13%) and Brent at $72.13 (+0.46%) on July 3, both stable as more ships transit the Strait of Hormuz, easing geopolitical risk premium (Yahoo Finance, OilPrice.com).",
+          "Oil prices are easing toward pre-war levels as Qatar reports positive progress in regional tensions, reducing the risk premium embedded in energy markets (Yahoo Finance/Reuters).",
+          "No major Indonesia-specific nickel or coal price news found this session."
+        ],
+        "analysis": "Soft oil prices benefit Indonesia as a net importer, keeping imported inflation manageable and supporting rupiah stability — but they weigh on coal-linked stocks (ADRO, ITMG, PTBA) that track energy prices.",
+        "bias": "**Neutral to Bearish** — Stable-to-easing oil reduces cost-push inflation risk for Indonesia but pressures commodity-linked equity sectors."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "BBCA, BBRI, BMRI (Big Banks)",
+        "catalyst": "Foreign investors sold Rp2.95T of Indonesian stocks this week (84% concentrated in big banks), with BBRI net sell Rp1.1T, BBCA Rp717.3B, BMRI Rp363.1B — YTD foreign net sell now at Rp74T [unverified for exact figures, single source].",
+        "bias": "Bearish",
+        "watch": ""
+      },
+      {
+        "stock": "JELI (PT Niramas Utama / INACO)",
+        "catalyst": "IPO oversubscribed 273.37x with 606,892 SIDs at Rp900/share, raising Rp239.4B [unverified — single source quoting Sucor Sekuritas CEO].",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "TAXI (PT Express Transindo Utama)",
+        "catalyst": "Lost GoTo (GOTO) subsidiary contract effective July 2, which contributed 30.23% (Rp1.06B) of 2025 revenue — materially negative for a small-cap already under pressure.",
+        "bias": "Bearish",
+        "watch": ""
+      },
+      {
+        "stock": "PIKO (Pikko Land Development)",
+        "catalyst": "Shareholders injecting Rp450B in advance capital (convertible to equity by 2031) to repay bank debt and fund operations — reduces near-term refinancing risk.",
+        "bias": "Bullish",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "IDX Channel — IHSG Sepekan Melemah Tipis 0,35 Persen",
+        "url": "https://www.idxchannel.com/market-news/ihsg-sepekan-melemah-tipis-035-persen-market-cap-jadi-rp10287-triliun"
+      },
+      {
+        "title": "IDX Channel — Prediksi IHSG Besok (MNC Sekuritas)",
+        "url": "https://www.idxchannel.com/market-news/intip-prediksi-ihsg-besok-cermati-saham-avia-jpfa-hingga-psab"
+      },
+      {
+        "title": "IDX Channel — Barclays Perkirakan The Fed Tahan Suku Bunga",
+        "url": "https://www.idxchannel.com/banking/barclays-perkirakan-the-fed-tahan-suku-bunga-dalam-jangka-waktu-panjang"
+      },
+      {
+        "title": "IDX Channel — Vietnam dan Filipina Naik Kelas",
+        "url": "https://www.idxchannel.com/economics/vietnam-dan-filipina-naik-kelas-jadi-negara-berpendapatan-menengah-ke-atas-bagaimana-indonesia"
+      },
+      {
+        "title": "Yahoo Finance — WTI Crude (CL=F)",
+        "url": "https://finance.yahoo.com/quote/CL=F/"
+      },
+      {
+        "title": "Yahoo Finance — Brent Crude (BZ=F)",
+        "url": "https://finance.yahoo.com/quote/BZ=F/"
+      },
+      {
+        "title": "OilPrice.com — Crude Oil Prices Today",
+        "url": "https://oilprice.com/"
+      },
+      {
+        "title": "Yahoo Finance/Reuters — Oil prices drop, Strait of Hormuz",
+        "url": "https://finance.yahoo.com/markets/article/oil-prices-drop-as-more-ships-move-through-the-strait-of-hormuz-132838336.html"
+      },
+      {
+        "title": "Xe.com — USD/IDR Exchange Rate",
+        "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=IDR"
+      },
+      {
+        "title": "Wise.com — USD to IDR Rate",
+        "url": "https://wise.com/gb/currency-converter/usd-to-idr-rate"
+      },
+      {
+        "title": "IDX Channel — Saham Tiga Bank Besar Jual Asing",
+        "url": "https://www.idxchannel.com/market-news/saham-tiga-bank-besar-menjadi-sasaran-aksi-jual-investor-asing-dalam-sepekan"
+      },
+      {
+        "title": "IDX Channel — JELI IPO Oversubscribed 273x",
+        "url": "https://www.idxchannel.com/market-news/saham-ipo-jeli-oversubscribed-hingga-27337-kali-diburu-lebih-dari-600-ribu-investor"
+      },
+      {
+        "title": "IDX Channel — Pikko Land (PIKO) Rp450 Miliar",
+        "url": "https://www.idxchannel.com/market-news/pikko-land-roda-bakal-raih-suntikan-dana-jumbo-rp450-miliar-dari-pemegang-saham"
+      },
+      {
+        "title": "IDX Channel — Savitra (VISI) Jual Gudang",
+        "url": "https://www.idxchannel.com/market-news/savitra-visi-milik-raffi-nagita-jual-gudang-untuk-lunasi-utang"
+      },
+      {
+        "title": "IDX Channel — Express (TAXI) Putus Kontrak GOTO",
+        "url": "https://www.idxchannel.com/market-news/putus-kontrak-goto-sumbang-30-persen-pendapatan-express-taxi"
+      },
+      {
+        "title": "IDX Channel — BEI Usul Revisi Papan Pemantauan Khusus",
+        "url": "https://www.idxchannel.com/market-news/bei-usul-revisi-mekanisme-papan-pemantauan-khusus-sejumlah-kriteria-diusulkan-dihapus"
+      },
+      {
+        "title": "IDX Channel — KAI Angkut 259 Juta Penumpang",
+        "url": "https://www.idxchannel.com/economics/kai-angkut-259-juta-penumpang-pada-semester-i-2026-79-persen-dari-krl"
+      },
+      {
+        "title": "IDX Channel — Bank Mayapada (MAYA) Target Laba Rp63 Miliar",
+        "url": "https://www.idxchannel.com/banking/bank-mayapada-maya-targetkan-laba-bersih-rp63-miliar-pada-2026"
+      }
+    ]
+  },
+  {
     "date": "2026-07-04",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-04",
