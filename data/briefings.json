@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-07-06",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-06",
+    "generated_at": "2026-07-06T01:12:38.694373Z",
+    "glance": [
+      "**Market tone:** Mixed — Friday's 2.28% rally provides momentum but foreign outflows and profit-taking risk cap upside.",
+      "**Main Indonesia catalyst:** ORI030 retail bond launch with 7% coupon today, competing with equities for retail liquidity.",
+      "**Main global catalyst:** OPEC+ weighing August output hike, pressuring oil prices near $72/bbl Brent.",
+      "**Commodities focus:** Gold rising (Antam IDR 2,670,000/gram), coal declining (ICI 1 $127.72), Brent ~$72.05.",
+      "**Stock watchlist:** BUMI, PADI, AMMN."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "IHSG closed Friday July 3 at 5,875.78 (+131.22, +2.28%), with LQ45 up 2.88% to 582 and KOMPAS100 up 2.79% to 765 (Kontan).",
+          "Foreign investors continued to exit the domestic stock market with declining transaction values, limiting the sustainability of the rally (Kontan)."
+        ],
+        "analysis": "The Friday rally sets a bullish opening bias, but persistent foreign selling means local buyers must absorb the supply — watch for profit-taking at the open if early volume surges.",
+        "bias": "**Mixed** — Strong Friday momentum is tempered by ongoing foreign outflows and retail bond competition for liquidity."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "The government launches ORI030 retail bonds today with a 7% coupon, offering a competitive safe-haven yield that may divert retail capital from equities (Kontan).",
+          "Singapore PM Lawrence Wong meets President Prabowo for bilateral talks to strengthen economic and trade cooperation between the two nations (Kontan)."
+        ],
+        "analysis": "ORI030's 7% coupon competes with dividend yields on many IDX stocks, potentially reducing retail equity inflows, while stronger Singapore ties could support FDI flows into Indonesia.",
+        "bias": "**Mixed** — Retail bond issuance is a near-term equity liquidity drain, but bilateral strengthening with Singapore is medium-term positive for investment."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "Brent crude traded near $72.05/bbl on July 3, recovering from lows near $69.50 as OPEC+ considers an August output increase (Vantage Markets).",
+          "Indonesian coal prices declined across all grades, with ICI 1 (GAR 6500) at $127.72 (-$1.82) and ICI 3 (GAR 5000) at $72.24 (JWC Indonesia, Argus).",
+          "Gold rose ~3.2% over the past week, with Antam sell price at IDR 2,670,000/gram and world spot gold at IDR 2,421,948/gram (JournalArta, 150currency.com)."
+        ],
+        "analysis": "Falling coal prices pressure revenue for coal miners (BUMI, PTBA, ITMG), while rising gold supports gold miners (ANTM, MDKA) — AMMN benefits from both copper and gold exposure but coal weakness offsets some coal-diversified names.",
+        "bias": "**Mixed** — Gold strength and oil softness create diverging impacts across Indonesian commodity stocks rather than a unified directional signal."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "BUMI (PT Bumi Resources Tbk)",
+        "catalyst": "Recommended as a top market pick; coal price weakness offset by gold/silver diversification and Friday rally momentum.",
+        "bias": "Mixed",
+        "watch": ""
+      },
+      {
+        "stock": "PADI (PT Minna Padi Investama Sekuritas)",
+        "catalyst": "Recommended as a market pick; as a brokerage, PADI benefits from increased trading volumes driven by Friday's 2.28% rally attracting retail participation.",
+        "bias": "Bullish",
+        "watch": ""
+      },
+      {
+        "stock": "AMMN (PT Amman Mineral Nusa Tenggara)",
+        "catalyst": "Director share purchases signaling insider confidence, combined with rising gold prices supporting revenue from the Batu Hijau mine and Elang project on Sumbawa.",
+        "bias": "Bullish",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "Kontan — IHSG ditutup naik 2,28% di 5.875,78",
+        "url": "https://www.kontan.co.id/"
+      },
+      {
+        "title": "Kontan — Nilai transaksi menurun, investor asing masih keluar",
+        "url": "https://www.kontan.co.id/"
+      },
+      {
+        "title": "Kontan — Pemerintah luncurkan ORI030 dengan kupon 7%",
+        "url": "https://www.kontan.co.id/"
+      },
+      {
+        "title": "Kontan — PM Singapura Lawrence Wong bertemu Presiden Prabowo",
+        "url": "https://www.kontan.co.id/"
+      },
+      {
+        "title": "Vantage Markets — Oil prices July 3, 2026",
+        "url": "https://www.vantagemarkets.com/market-analysis/oil-prices-today-wti-brent-june-29-july-3-2026/"
+      },
+      {
+        "title": "JWC Indonesia — Indonesian Coal Price Index",
+        "url": "https://www.jwcindonesia.com/price-index"
+      },
+      {
+        "title": "JournalArta / 150currency.com — Gold price Indonesia July 2026",
+        "url": "https://journalarta.com/en/tools/indonesia-gold-price-chart/"
+      },
+      {
+        "title": "stockanalysis.com — BUMI company profile",
+        "url": "https://stockanalysis.com/idx/bumi/"
+      },
+      {
+        "title": "stockanalysis.com — PADI company profile",
+        "url": "https://stockanalysis.com/idx/padi/"
+      },
+      {
+        "title": "stockanalysis.com — AMMN company profile",
+        "url": "https://stockanalysis.com/idx/ammn/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-05",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-05",
