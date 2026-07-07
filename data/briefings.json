@@ -106,6 +106,149 @@
     ]
   },
   {
+    "date": "2026-07-07",
+    "type": "closing",
+    "title": "Closing Market Briefing — 2026-07-07",
+    "generated_at": "2026-07-07T12:13:59.047569Z",
+    "glance": [
+      "Market close tone: **Mixed** — IHSG rallied +1.19% on strong domestic breadth, but foreign investors remained net sellers on the regular board.",
+      "IHSG driver: Broad-based buying across property, cyclicals, and financials pushed the index toward the 6,000 psychological level for the first time in its current five-day winning streak.",
+      "Foreign flow signal: Net sell [unverified] Rp 176.83 billion across all markets; net sell [unverified] Rp 205.38 billion on the regular market.",
+      "Strong sectors / assets: IDX-Property +3.23%, IDX-Cyclical +1.70%, IDX-Financial +1.58%; rupiah firmed to Rp 17,980/USD.",
+      "Weak sectors / assets: IDX-Technology -0.54%; Antam gold bar fell Rp 15,000 to Rp 2,655,000/gram.",
+      "Tomorrow setup: Watch whether IHSG can break and hold above 6,000 against continued foreign outflows, and monitor the RANS IPO close for retail sentiment signals."
+    ],
+    "sections": [
+      {
+        "title": "Market Close Recap",
+        "updates": [
+          "IHSG closed at **5,986.49**, up **70.42 points (+1.19%)**, marking its fifth consecutive day of gains (Kontan).",
+          "Market breadth was strongly positive: **430 stocks advanced, 212 declined, 141 unchanged**, with total volume of **21.92 billion shares** and value of **Rp 10.19 trillion** (Kontan).",
+          "The index is now approaching the **6,000 psychological resistance level**, a zone that has historically triggered profit-taking."
+        ],
+        "analysis": "A five-day winning streak with turnover near Rp 10 trillion and 2:1 advance-decline breadth signals genuine domestic risk appetite, but the index is entering a technically significant resistance zone while foreign investors continue selling on the regular board — a combination that raises the probability of a pause or pullback if inflows do not improve.",
+        "bias": "**Mixed** — Strong domestic momentum and breadth are offset by persistent foreign net selling and proximity to key resistance."
+      },
+      {
+        "title": "Sector and Flow Recap",
+        "updates": [
+          "**Property** was the strongest sector, with IDX-Property surging **+3.23%**, followed by consumer cyclicals (+1.70%) and financials (+1.58%) (Kontan).",
+          "**Technology** was the only sector in the red, falling **-0.54%** (Kontan).",
+          "Foreign investors recorded a net sell of [unverified] **Rp 176.83 billion** across all markets, with a net sell of [unverified] **Rp 205.38 billion** on the regular market partially offset by net buy of Rp 28.55 billion on cash and negotiation markets (Kontan)."
+        ],
+        "analysis": "Property and financials leading the rally suggests the market is pricing in rate-cut expectations and a domestic demand recovery, but foreign net selling of key blue chips such as BMRI and TPIA indicates selective institutional caution that could limit follow-through buying.",
+        "bias": "**Mixed** — Sector rotation favors rate-sensitive domestic plays, but foreign outflows remain a structural headwind."
+      },
+      {
+        "title": "Economic and Policy Updates",
+        "updates": [
+          "Bank Indonesia reported Indonesia's **foreign exchange reserves rose to US$145.6 billion** in June 2026, supporting rupiah stability (Kontan).",
+          "The **rupiah spot rate firmed to Rp 17,980/USD**, up Rp 15 or +0.08%, while the BI Jisdor rate strengthened to Rp 17,988/USD (Kontan).",
+          "Bank Indonesia continues **intervention in domestic and foreign exchange markets** to maintain currency stability (Kontan)."
+        ],
+        "analysis": "Higher FX reserves and active BI intervention improve confidence in rupiah stability, which reduces import cost pressures for companies and supports rate-sensitive sectors such as property and banking; however, sustained intervention also signals that the currency remains vulnerable without official support.",
+        "bias": "**Bullish** — Improved reserve buffers and a stable rupiah near Rp 18,000 reduce near-term macro risk for Indonesian assets."
+      },
+      {
+        "title": "Commodities and Macro Assets",
+        "updates": [
+          "The **Antam gold bar price fell Rp 15,000 to Rp 2,655,000/gram**, with the buyback price also down Rp 15,000 to Rp 2,414,000/gram (Kontan).",
+          "The **Dollar Index (DXY)** stood at **100.94 (+0.09%)**, showing modest dollar resilience despite broad Asian FX strength (Kontan).",
+          "**Asian currencies mostly firmed**: won Korea +0.46%, rupee India +0.29%, ringgit Malaysia +0.29% (Kontan).",
+          "Overnight, **Wall Street rallied**: Dow +0.29%, S&P 500 +0.72%, Nasdaq +1.12%, driven by optimism in AI-related tech stocks (Kontan).",
+          "Asian equities were mostly weaker: KOSPI -4.1% [unverified], Nikkei -1.08% [unverified], MSCI Asia ex-Japan -0.73% [unverified], with geopolitical tensions involving Iran keeping sentiment cautious (Kontan)."
+        ],
+        "analysis": "Soft gold prices and a firmer rupiah reflect improved risk appetite, but resilient DXY and weak Asian equity performance (outside Indonesia) suggest global risk sentiment remains selective; Indonesian commodity-linked stocks may face mixed signals from global macro drivers.",
+        "bias": "**Mixed** — Supportive local FX and US tech rally are positives, but geopolitical risk and Asian equity weakness cap the macro backdrop."
+      }
+    ],
+    "movers": [
+      {
+        "stock": "SMGR (Semen Indonesia)",
+        "catalyst": "Led the LQ45 gainers with a surge of +8.19%, part of a broader property and infrastructure materials rally.",
+        "bias": "Bullish",
+        "watch": "Whether cement demand narratives sustain momentum or if the sharp single-day move triggers profit-taking near technical resistance."
+      },
+      {
+        "stock": "BBNI (Bank Negara Indonesia)",
+        "catalyst": "Rose +5.79% as financials sector gained +1.58%, reflecting rate-cut positioning and domestic liquidity.",
+        "bias": "Bullish",
+        "watch": "Foreign flow direction into BBNI specifically, and whether the banking sector can sustain outperformance if rate expectations shift."
+      },
+      {
+        "stock": "INDF / ICBP (Indofood Sukses Makmur / Indofood CBP)",
+        "catalyst": "INDF fell -3.26% and ICBP -2.89%, making them the weakest LQ45 performers despite a strong market rally.",
+        "bias": "Bearish",
+        "watch": "Any margin or volume commentary from the group, and whether the weakness is a one-day rotation out of defensives or the start of a broader consumption slowdown signal."
+      },
+      {
+        "stock": "BSDE (Bumi Serpong Damai)",
+        "catalyst": "Paid bond coupons on two instruments today (Rp 4.89B and Rp 2.64B nominal, both 7.75%), a positive liquidity signal, though Q1 2026 revenue fell 12.29% YoY.",
+        "bias": "Mixed",
+        "watch": "Post-coupon price action and whether the +4.63% monthly recovery can extend despite a -37.57% YTD decline."
+      },
+      {
+        "stock": "JECX (Nitrasanata / JEC Eye Hospitals)",
+        "catalyst": "Debuted on BEI today, targeting 2026 revenue of Rp 900B–1T and net profit around Rp 320B.",
+        "bias": "Neutral",
+        "watch": "First-day closing price, volume, and any post-IPO volatility; monitor whether patient-deferral risks in a softer economy affect near-term guidance."
+      },
+      {
+        "stock": "RANS (RANS Entertainment)",
+        "catalyst": "IPO offering closes tomorrow (8 July); as of 10:00 WIB today, [unverified] 930,999 SID had placed orders, making it the second most-subscribed IPO after PRDL.",
+        "bias": "Neutral",
+        "watch": "Final subscription numbers, allocation details, and post-listing volatility given the retail-heavy order book; listing scheduled for 10 July."
+      }
+    ],
+    "watchpoints": [
+      "**IHSG 6,000 test** — Can the index break and hold above the psychological 6,000 level, or will foreign net selling and profit-taking trigger a pullback?",
+      "**RANS IPO close** — Final retail subscription numbers will signal domestic liquidity appetite and set expectations for post-listing volatility on 10 July.",
+      "**Global risk tone** — Monitor overnight US equity performance and any escalation in Middle East geopolitical tensions, which could shift Asian sentiment and rupiah volatility."
+    ],
+    "sources": [
+      {
+        "title": "Kontan — IHSG Menguat 1,19% ke 5.986 pada Selasa (7/7/2026), SMGR, BBNI, BRPT Top Gainers LQ45",
+        "url": "https://investasi.kontan.co.id/news/ihsg-menguat-119-ke-5986-pada-selasa-772026-smgr-bbni-brpt-top-gainers-lq45"
+      },
+      {
+        "title": "Kontan — Menguat 5 Hari, IHSG Kembali Dekati Level 6.000 Hari Ini (7/7)",
+        "url": "https://pusatdata.kontan.co.id/news/menguat-5-hari-ihsg-kembali-dekati-level-6000-hari-ini-77"
+      },
+      {
+        "title": "Kontan — IHSG Naik 0,46% ke 5.943 Sesi I Selasa (7/7), Cadangan Devisa Naik ke US$145,6 Miliar",
+        "url": "https://investasi.kontan.co.id/news/ihsg-naik-046-ke-5943-sesi-i-selasa-77-cadangan-devisa-naik-ke-us1456-miliar"
+      },
+      {
+        "title": "Kontan — Nilai Tukar Rupiah Menguat ke Rp 17.980 Per Dolar AS, Selasa (7/7)",
+        "url": "https://pusatdata.kontan.co.id/news/nilai-tukar-rupiah-menguat-ke-rp-17980-per-dolar-as-selasa-77"
+      },
+      {
+        "title": "Kontan — Rupiah Dibuka Turun Tipis ke Rp 17.996 Per Dolar AS Hari Ini (7/7), Asia Naik",
+        "url": "https://investasi.kontan.co.id/news/rupiah-dibuka-turun-tipis-ke-rp-17996-per-dolar-as-hari-ini-77-asia-naik"
+      },
+      {
+        "title": "Kontan — Daftar Harga Emas Antam Hari Ini (7/7): Harga Jual & Buyback Kompak Turun Rp 15.000",
+        "url": "https://investasi.kontan.co.id/news/daftar-harga-emas-antam-hari-ini-77-harga-jual-buyback-kompak-turun-rp-15000"
+      },
+      {
+        "title": "Kontan — Bursa Asia Lesu Selasa (7/7) di Tengah Lonjakan Proyeksi Laba Samsung & Pelemahan Yen",
+        "url": "https://investasi.kontan.co.id/news/bursa-asia-lesu-selasa-77-di-tengah-lonjakan-proyeksi-laba-samsung-pelemahan-yen"
+      },
+      {
+        "title": "Kontan — Bumi Serpong Damai (BSDE) Bayar Kupon Surat Utang Hari Ini (7/7), Ini Rinciannya",
+        "url": "https://investasi.kontan.co.id/news/bumi-serpong-damai-bsde-bayar-kupon-surat-utang-hari-ini-77-ini-rinciannya"
+      },
+      {
+        "title": "Kontan — Baru Melantai di BEI, Nitrasanata (JECX) Langsung Bidik Pendapatan Rp 1 Triliun",
+        "url": "https://investasi.kontan.co.id/news/baru-melantai-di-bei-nitrasanata-jecx-langsung-bidik-pendapatan-rp-1-triliun"
+      },
+      {
+        "title": "Kontan — Penawaran Umum Ditutup Besok (8/7), Hampir 1 Juta Investor Antre IPO Saham RANS",
+        "url": "https://investasi.kontan.co.id/news/penawaran-umum-ditutup-besok-87-hampir-1-juta-investor-antre-ipo-saham-rans"
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-06",
