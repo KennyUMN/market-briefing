@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-07",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-07",
+    "generated_at": "2026-07-07T01:09:08.219740Z",
+    "glance": [
+      "**Market tone:** Mixed — IHSG on a four-day winning streak but rupiah weakens and FX reserves falling.",
+      "**Main Indonesia catalyst:** Government trimming Prabowo's free meal program from 5 to 4 days/week to ease fiscal strain, supporting sentiment.",
+      "**Main global catalyst:** OPEC+ agreed to increase production quotas; Saudi Aramco cut Asian prices by $11/bbl — oil near 4-month lows.",
+      "**Commodities focus:** Oil (WTI $68.87, Brent ~$72), coal ($128.40), nickel ($16,300 — lowest since December).",
+      "**Stock watchlist:** BUMI, ENRG, BULL, TINS, COCO."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "IHSG closed at 5,916.07 on July 6, up 0.69% for a fourth consecutive advance and one-week high, led by basic materials, energy, and technology sectors (TradingEconomics).",
+          "Reliance Sekuritas set support at 5,821 and resistance at 5,932, citing a three white soldier candle formation, MA5 breach, and Stochastic golden cross — all bullish technical signals (investor.id)."
+        ],
+        "analysis": "The four-day rally and bullish technical setup suggest short-term momentum could continue toward 5,932 resistance, but the index remains 14.27% below its January 2026 all-time high of 9,174.47, meaning the broader trend is still down. Foreign reserve declines and Fitch's credit warning could cap upside if foreign outflows resume.",
+        "bias": "**Bullish** — Technical indicators and broad-based sector gains support near-term continuation, though macro headwinds limit upside."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "USD/IDR rose to 18,050.10 on July 7 (up 0.28%), ending the rupiah's five-session advance despite a softer U.S. dollar after weak June employment data scaled back Fed hike bets (TradingEconomics).",
+          "Bank Indonesia rate at 5.75% (raised from 5.50%), inflation rose to 3.34% in June from 3.08%, and Indonesia posted its first trade deficit since 2020 in May as exports fell while imports stayed strong (TradingEconomics)."
+        ],
+        "analysis": "The combination of rising inflation, a trade deficit, and falling FX reserves (five straight months of decline to near two-year lows) creates a tough environment for BI — it must defend the rupiah without further depleting reserves, while rising inflation constrains any dovish pivot. Fiscal tightening (free meal program cuts) is a positive signal for deficit management but may dampen consumption.",
+        "bias": "**Bearish** — Rupiah weakness, trade deficit, and reserve depletion outweigh the fiscal consolidation positive."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "WTI crude at $68.87/bbl (down 24.56% monthly) and Brent below $72 after OPEC+ agreed to increase production quotas; Saudi Aramco cut Arab Light price for Asian buyers by $11/bbl to a $1.50 discount — last seen during 2020 and 2015 oil price wars (TradingEconomics).",
+          "Thermal coal at $128.40/ton (down 15.11% monthly) as US-Iran peace talks raise hopes for full Strait of Hormuz reopening, returning to pre-conflict levels (TradingEconomics).",
+          "Nickel fell to $16,300/tonne, its lowest since late December, as Indonesia prepares to raise 2026 mining quotas to ~360M tonnes from ~260M tonnes, reversing earlier production curbs (TradingEconomics)."
+        ],
+        "analysis": "Falling oil and coal prices cut Indonesia's energy import bill and subsidy burden but pressure coal mining stocks (TINS, BUMI, ITMG, PTBA). The nickel quota increase is strongly bearish for nickel producers (NCKL, ANTM, INCO) but benefits downstream processors. Saudi Aramco's massive Asian price discount directly benefits Indonesian refiners.",
+        "bias": "**Bearish** — Rising supply across oil, coal, and nickel with weakening demand signals points to continued commodity price pressure."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "BUMI (Energi Mega Persada)",
+        "catalyst": "Top gainer on July 6, surged 4.7% with broad energy sector rally; recommended by Reliance Sekuritas",
+        "bias": "bullish",
+        "watch": ""
+      },
+      {
+        "stock": "ENRG (Energi Mega Persada)",
+        "catalyst": "Recommended by Reliance Sekuritas alongside BUMI, BULL, TINS; part of energy sector leadership",
+        "bias": "bullish",
+        "watch": ""
+      },
+      {
+        "stock": "TINS (Timah)",
+        "catalyst": "Recommended by Reliance Sekuritas; basic materials sector led IHSG gains on July 6",
+        "bias": "mixed",
+        "watch": ""
+      },
+      {
+        "stock": "COCO",
+        "catalyst": "Named among top gainers on July 6 by investor.id, surging sharply",
+        "bias": "bullish",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "TradingEconomics — Indonesia Stock Market (JCI)",
+        "url": "https://tradingeconomics.com/indonesia/stock-market"
+      },
+      {
+        "title": "investor.id — IHSG Naik Lagi, 5 Saham Melonjak Tajam",
+        "url": "https://investor.id/market/445375/ihsg-naik-lagi-5-saham-melonjak-tajam"
+      },
+      {
+        "title": "TradingEconomics — Indonesian Rupiah",
+        "url": "https://tradingeconomics.com/indonesia/currency"
+      },
+      {
+        "title": "TradingEconomics — Crude Oil",
+        "url": "https://tradingeconomics.com/commodity/crude-oil"
+      },
+      {
+        "title": "TradingEconomics — Coal",
+        "url": "https://tradingeconomics.com/commodity/coal"
+      },
+      {
+        "title": "TradingEconomics — Nickel",
+        "url": "https://tradingeconomics.com/commodity/nickel"
+      },
+      {
+        "title": "TradingEconomics — Gold",
+        "url": "https://tradingeconomics.com/commodity/gold"
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-06",
