@@ -1,5 +1,134 @@
 [
   {
+    "date": "2026-07-08",
+    "type": "closing",
+    "title": "Closing Market Briefing — 2026-07-08",
+    "generated_at": "2026-07-08T12:10:31.589205Z",
+    "glance": [
+      "Market close tone: Bearish — IHSG plunged 1.89% on profit-taking after five consecutive up days, compounded by S&P DJI watchlist news and escalating US-Iran tensions.",
+      "IHSG driver: S&P DJI placing Indonesia on watchlist for potential frontier-market downgrade triggered risk-off selling, while Middle East oil spike added inflation and Fed-policy fears.",
+      "Foreign flow signal: Net sell of Rp 674.26 billion in the regular market and Rp 689.33 billion across all markets.",
+      "Strong sectors / assets: Healthcare (+1%), energy names MEDC (+4%) and PGEO (+3.87%), AKRA (+1.93%).",
+      "Weak sectors / assets: Basic materials (-4.35%), property (-2.68%), consumer cyclicals (-2.50%), SMGR (-6.58%), MBMA (-6.27%), AMMN (-5.90%).",
+      "Tomorrow setup: Watch whether IHSG holds the 5,800 technical support after the Fed minutes release and any overnight oil-price moves."
+    ],
+    "sections": [
+      {
+        "title": "Market Close Recap",
+        "updates": [
+          "IHSG closed at 5,873.37, down 107.41 points or 1.89%, reversing five straight sessions of gains (Kontan).",
+          "Breadth was weak: 191 stocks rose, 482 fell, and 116 were flat, with total volume of 21.63 billion shares and turnover of Rp 10.22 trillion."
+        ],
+        "analysis": "The broad-based decline on heavy volume indicates institutional risk-off positioning rather than a shallow pullback; the combination of index-reclassification risk and geopolitical shock removed the fragile floor under recent gains.",
+        "bias": "Bearish — Profit-taking met structural headwinds, producing the sharpest single-day drop in the recent rally."
+      },
+      {
+        "title": "Sector and Flow Recap",
+        "updates": [
+          "Healthcare was the only positive sector (+1%), while basic materials (-4.35%), property (-2.68%), and consumer cyclicals (-2.50%) led losses.",
+          "Foreign investors net sold Rp 674.26 billion in the regular market and Rp 689.33 billion across all markets, extending YTD outflows to Rp 89.28 trillion (Kontan).",
+          "BEI Trading Director Irvan Susandy estimates potential additional passive outflows of US$150-200 million (~Rp 3.5-4 trillion) due to the S&P DJI watchlist announcement."
+        ],
+        "analysis": "Persistent foreign selling in large-cap liquid names mechanically suppresses index levels and narrows the pool of natural buyers, making bounces vulnerable to further supply.",
+        "bias": "Bearish — Foreign flows remain decisively negative and a new passive-outflow overhang has just been introduced."
+      },
+      {
+        "title": "Economic and Policy Updates",
+        "updates": [
+          "The rupiah spot closed at Rp 18,014 per USD after breaching the psychological Rp 18,000 barrier, while Jisdor weakened to Rp 18,005 (Kontan).",
+          "APBN deficit widened to Rp 196.5 trillion (0.76% of GDP) as of H1 2026, while BI reported FX reserves rose to US$145.6 billion at end-June from US$144.9 billion in May."
+        ],
+        "analysis": "A rupiah above Rp 18,000/USD raises imported-inflation risks, tightens BI's monetary-policy flexibility, and increases funding costs for corporates with dollar debt.",
+        "bias": "Bearish — Fiscal and currency drags are adding to equity-market stress and could pressure bond yields."
+      },
+      {
+        "title": "Commodities and Macro Assets",
+        "updates": [
+          "Oil surged after President Trump declared the US-Iran memorandum of understanding is over; Brent September 2026 rose 3.2% to US$76.56/bbl and WTI August 2026 jumped 3.2% to US$72.70/bbl (Kontan / Reuters).",
+          "Tensions escalated with US airstrikes on Iran, Iranian Revolutionary Guard targeting US military sites, and commercial-vessel attacks in the Strait of Hormuz.",
+          "Antam gold fell Rp 14,000 to Rp 2,641,000 per gram (Kontan)."
+        ],
+        "analysis": "Higher oil prices threaten Indonesia's trade balance and subsidy burden, while energy stocks (MEDC, PGEO) are the rare beneficiaries; prolonged Hormuz disruptions would amplify global inflation and complicate Fed easing.",
+        "bias": "Mixed — Oil spike is a tailwind for energy exporters but a headwind for the broader economy and rupiah."
+      }
+    ],
+    "movers": [
+      {
+        "stock": "AKRA",
+        "catalyst": "Closed +1.93% at Rp 1,320, showing relative strength amid broad decline; broker cup-and-handle breakout target of Rp 1,425.",
+        "bias": "Bullish",
+        "watch": "Whether AKRA holds above Rp 1,280 support and extends its outperformance if oil stays elevated."
+      },
+      {
+        "stock": "BBCA",
+        "catalyst": "No specific price catalyst today, but Kanaka Hita recommended buy on weakness with support at Rp 5,550-4,840 and resistance at Rp 6,550-7,175.",
+        "bias": "Bullish (on weakness)",
+        "watch": "If IHSG tests 5,800, whether BBCA attracts defensive buying or gets dragged lower by foreign liquidation of blue-chip positions."
+      },
+      {
+        "stock": "INKP",
+        "catalyst": "Closed -4.71% at Rp 7,075 on weak technicals (black-body candle, weakening RSI, declining volume) and broad risk-off sentiment.",
+        "bias": "Bearish",
+        "watch": "Support at Rp 6,800; a break below could accelerate selling, while a hold may invite buy-on-weakness entries."
+      },
+      {
+        "stock": "SMGR",
+        "catalyst": "Top LQ45 loser, down 6.58%, leading basic-materials sector decline (-4.35%).",
+        "bias": "Bearish",
+        "watch": "Whether cement-sector selling continues on cost-pressure fears from higher energy prices and weaker rupiah."
+      },
+      {
+        "stock": "JSMR",
+        "catalyst": "Fundamentals remain solid with 9% YoY toll revenue growth and Rp 692 billion shareholder loan to toll subsidiaries for strategic projects (Kontan).",
+        "bias": "Neutral",
+        "watch": "Watch for any margin compression concerns from rising interest rates and construction-cost inflation, despite visible cash-flow resilience."
+      }
+    ],
+    "watchpoints": [
+      "Fed minutes release tonight (US time) — any hawkish tone on rates could extend IHSG downside toward the 5,800 support zone.",
+      "Oil price and Middle East escalation — further Hormuz disruption risks would pressure importers and the rupiah while supporting MEDC/PGEO.",
+      "Foreign flow continuity — another day of net sell above Rp 500 billion would confirm sustained liquidation and raise the risk of breaching 5,800."
+    ],
+    "sources": [
+      {
+        "title": "Kontan — IHSG Ditutup Anjlok 1,89% ke 5.873 pada Rabu (8/7), SMGR, MBMA, AMMN Top Losers LQ45",
+        "url": "https://investasi.kontan.co.id/news/ihsg-ditutup-anjlok-189-ke-5873-pada-rabu-87-smgr-mbma-ammn-top-losers-lq45"
+      },
+      {
+        "title": "Kontan — BEI Perkirakan Outflow Asing Masih Berlanjut Imbas Pengumuman Watchlist S&P",
+        "url": "https://investasi.kontan.co.id/news/bei-perkirakan-outflow-asing-masih-berlanjut-imbas-pengumuman-watchlist-sp"
+      },
+      {
+        "title": "Kontan — Rupiah Tergelincir ke Rp 18.014, Defisit APBN dan Timur Tengah Jadi Beban",
+        "url": "https://investasi.kontan.co.id/news/rupiah-tergelincir-ke-rp-18014-defisit-apbn-dan-timur-tengah-jadi-beban"
+      },
+      {
+        "title": "Kontan / Reuters — Trump Klaim MOU Iran-AS Berakhir, Harga Minyak Mentah Melonjak 4%",
+        "url": "https://investasi.kontan.co.id/news/trump-klaim-mou-iran-as-berakhir-harga-minyak-mentah-melonjak-4"
+      },
+      {
+        "title": "Kontan — Daftar Harga Emas Antam Hari Ini (8/7): Turun Rp 14.000 Jadi Rp 2.641.000 Per Gram",
+        "url": "https://investasi.kontan.co.id/news/daftar-harga-emas-antam-hari-ini-87-turun-rp-14000-jadi-rp-2641000-per-gram"
+      },
+      {
+        "title": "Kontan — Bursa Indonesia Masuk Watchlist S&P, Simak Proyeksi IHSG hingga Akhir 2026",
+        "url": "https://investasi.kontan.co.id/news/bursa-indonesia-masuk-watchlist-sp-simak-proyeksi-ihsg-hingga-akhir-2026"
+      },
+      {
+        "title": "Kontan — Melorot 1,98% Hari Ini (8/7), IHSG Diproyeksikan Turun Lagi Besok (9/7)",
+        "url": "https://investasi.kontan.co.id/news/melorot-198-hari-ini-87-ihsg-diproyeksikan-turun-lagi-besok-97"
+      },
+      {
+        "title": "Kontan — Simak Rekomendasi Teknikal Saham untuk Kamis (9/7): TLKM, INKP, dan AKRA",
+        "url": "https://investasi.kontan.co.id/news/simak-rekomendasi-teknikal-saham-untuk-kamis-97-tlkm-inkp-dan-akra"
+      },
+      {
+        "title": "Kontan — Fundamental Masih Solid, JSMR Ditopang Pendapatan Tol dan Proyek Strategis",
+        "url": "https://investasi.kontan.co.id/news/fundamental-masih-solid-jsmr-ditopang-pendapatan-tol-dan-proyek-strategis"
+      }
+    ]
+  },
+  {
     "date": "2026-07-07",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-07",
