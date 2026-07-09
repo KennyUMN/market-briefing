@@ -121,6 +121,115 @@
     ]
   },
   {
+    "date": "2026-07-09",
+    "type": "closing",
+    "title": "Closing Market Briefing — 2026-07-09",
+    "generated_at": "2026-07-09T12:09:00.301035Z",
+    "glance": [
+      "Market close tone: Cautious / risk-off",
+      "IHSG driver: Geopolitical tensions in the Middle East weighed on sentiment; early-session decline of ~72 pts (-1.2%)",
+      "Foreign flow signal: No confirmed July 9 session flow; most recent data shows persistent foreign selling (IDR 2.05T net sell on Jun 5) and YTD equity outflows of Rp38.6T",
+      "Strong sectors / assets: Selective buying in infrastructure/materials (BRPT +3.7%, SMGR +3.6%) and consumer/auto (ASII +1.3%)",
+      "Weak sectors / assets: Basic materials, property, consumer cyclicals, and energy turned lower; resources names (AMMN -4.2%) sold off",
+      "Tomorrow setup: Watch for any de-escalation in Middle East tensions and whether early-session buyers hold support near 5,900"
+    ],
+    "sections": [
+      {
+        "title": "Market Close Recap",
+        "updates": [
+          "The Jakarta Composite Index (IHSG/JCI) closed at 5,987 on Tuesday, July 7. During early trade on July 9, the index dropped roughly 72 points (-1.2%) to around 5,916 on renewed geopolitical risk in the Middle East.",
+          "The rupiah traded at Rp18,057.53 per USD on July 9, down 0.28% from July 8 (Rp18,107.87). BI continues aggressive NDF and spot intervention to defend the currency."
+        ],
+        "analysis": "The pullback from the July 7 high signals investors are trimming risk ahead of the weekend and on news of renewed Middle East tensions. Without a clear foreign-flow reversal, the index may struggle to reclaim the 6,000 level in the near term.",
+        "bias": "Bearish — until foreign flows turn net positive and geopolitical risk eases."
+      },
+      {
+        "title": "Sector and Flow Recap",
+        "updates": [
+          "Prior sessions saw basic materials, energy, transport, and industrials lead gains. On July 9, basic materials, property, consumer cyclicals, and energy were among the weakest sectors.",
+          "Foreign investors recorded net sales of IDR 2.05 trillion in the June 5 session, with heavy selling in BBCA, TPIA, BMRI, MDKA, and ANTM. Small net buying appeared in WIFI, TINS, and JPFA.",
+          "YTD through April 2026, Indonesia recorded $3.3 billion in foreign inflows, mainly into SRBI, while equities saw Rp38.6 trillion in outflows and government bonds Rp11.7 trillion in outflows."
+        ],
+        "analysis": "Persistent foreign selling in big-cap banks and miners is a structural headwind. The fact that safe-haven inflows are going to SRBI rather than equities or bonds suggests foreign sentiment toward Indonesian risk assets remains cautious.",
+        "bias": "Bearish — foreign flow recovery is not yet visible."
+      },
+      {
+        "title": "Economic and Policy Updates",
+        "updates": [
+          "Bank Indonesia is maintaining a pro-stability/pro-growth stance, with the possibility of further rate cuts if inflation stays controlled.",
+          "BI is intervening aggressively in offshore NDF markets (Hong Kong, Singapore, London, New York) as well as spot/DNDF. FX reserves stood at $148.2 billion at end-March 2026.",
+          "H1 2026 state revenue reached 46% of the full-year target. The DPR Budget Committee proposed trimming the 2027 free-meal program to improve fiscal efficiency."
+        ],
+        "analysis": "A dovish BI is equity-positive in theory, but rupiah weakness limits how aggressive the central bank can be. Fiscal discipline is credit-positive for sovereign risk, yet spending cuts could dampen consumer and infrastructure demand.",
+        "bias": "Neutral — supportive policy but constrained by external pressures."
+      },
+      {
+        "title": "Commodities and Macro Assets",
+        "updates": [
+          "Gold rose to $2,845.30 (+0.44%) on safe-haven demand.",
+          "WTI crude fell to $74.85 (-1.51%) and Brent traded around $79.20 as supply-disruption fears eased.",
+          "LME nickel cash settled at $16,275/t on June 30, down ~14% since early June, driven by weak European stainless demand and surging Chinese stainless exports.",
+          "Indonesia cut its 2026 nickel ore RKAB quota to 250–260 million tonnes, down ~34% YoY, aligning mining output with domestic smelter capacity."
+        ],
+        "analysis": "Gold strength and oil weakness send mixed signals for Indonesian resource stocks. Lower nickel prices hurt miners and smelters (ANTM, INCO, NCKL), but the RKAB quota cut provides a medium-term supply floor. Indonesia remains a net oil importer, so cheaper crude is a mild positive for the trade balance.",
+        "bias": "Mixed — bearish on nickel near term, bullish on gold, neutral on oil."
+      }
+    ],
+    "movers": [
+      {
+        "stock": "Barito Pacific (BRPT)",
+        "catalyst": "Early-session leader, up 3.7%, alongside infrastructure/materials buying.",
+        "bias": "Bullish",
+        "watch": "Whether the gain holds if the broader market stays risk-off; check foreign flow in BRPT specifically."
+      },
+      {
+        "stock": "Amman Mineral (AMMN)",
+        "catalyst": "Fell ~4.2% as resources names sold off amid weaker nickel and broad risk-off sentiment.",
+        "bias": "Bearish",
+        "watch": "Any recovery in nickel prices or foreign buying dip; AMMN is a bellwether for foreign sentiment in mining."
+      },
+      {
+        "stock": "Bank Central Asia (BBCA)",
+        "catalyst": "No July 9 flow data, but historically the largest foreign net-sell target (IDR 734bn on Jun 5). Heavy foreign selling in BBCA drags the index.",
+        "bias": "Bearish",
+        "watch": "Any sign of foreign flow stabilization or net buying in BBCA would be a strong positive signal for the broader market."
+      }
+    ],
+    "watchpoints": [
+      "Geopolitical headlines: Any escalation or de-escalation in Middle East tensions will drive risk sentiment.",
+      "Foreign flow data: Look for IDX-reported foreign net buy/sell figures for the July 9 session.",
+      "USD/IDR and BI intervention signals: Watch for BI statements or unusual spot-market activity.",
+      "Commodity prices: Gold, nickel, and oil moves will set the tone for resource stocks.",
+      "Earnings/corporate calendar: Any surprise updates from large-cap banks or miners."
+    ],
+    "sources": [
+      {
+        "title": "TradingEconomics — Pasar Saham Indonesia (JCI)",
+        "url": "https://id.tradingeconomics.com/indonesia/stock-market"
+      },
+      {
+        "title": "ExchangeRate.guru — 1 USD to IDR on 2026-07-09",
+        "url": "https://exchangerate.guru/usd/idr/1"
+      },
+      {
+        "title": "Antara News — Indonesia records $3.3 bln foreign inflows in 2026",
+        "url": "https://en.antaranews.com/news/415011/indonesia-records-33-bln-foreign-inflows-in-2026-bi-governor"
+      },
+      {
+        "title": "IDNFinancials — Foreign funds withdraw IDR 2.05 trillion as JCI falls 2.53%",
+        "url": "https://www.idnfinancials.com/news/64466/foreign-funds-withdraw-idr-2-05-trillion-as-jci-falls-2-53"
+      },
+      {
+        "title": "CVCVO — LME Nickel Settles at 16,275 USD/t as Q3 Begins",
+        "url": "https://www.cvcvo.com/news/nickel-price-july-2026-outlook-procurement/"
+      },
+      {
+        "title": "IDNFinancials — Indonesia cuts 2026 nickel quota, global prices jump immediately",
+        "url": "https://www.idnfinancials.com/news/60514/indonesia-cuts-2026-nickel-quota-global-prices-jump-immediately"
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "type": "closing",
     "title": "Closing Market Briefing — 2026-07-08",
