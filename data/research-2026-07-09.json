@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-09",
+  "type": "morning",
+  "generated_at": "2026-07-09T08:00:00+07:00",
+  "model": "kimi-k2.6",
+  "source": "OpenClaw Daily Briefing System",
+  "market_snapshot": {
+    "ihsg": {
+      "value": 5875.78,
+      "change": 131.22,
+      "change_pct": 2.28,
+      "date": "2026-07-03",
+      "status": "closed",
+      "note": "Jul 3 close; Jul 9 trading day not yet closed"
+    },
+    "usd_idr": {
+      "value": 18057.53,
+      "change": -50.34,
+      "change_pct": -0.28,
+      "date": "2026-07-09",
+      "source": "exchangerate.guru (Open Exchange Rates)"
+    },
+    "gold": {
+      "value": 4074.70,
+      "change": -30.00,
+      "change_pct": -0.73,
+      "date": "2026-07-08",
+      "source": "IDK Tracker / LBMA",
+      "note": "Real-rate shock from hawkish FOMC minutes"
+    },
+    "coal_newcastle": {
+      "value": 129.10,
+      "change": 1.10,
+      "change_pct": 0.86,
+      "date": "2026-07-09",
+      "source": "TradingEconomics",
+      "signal": "Decoupling-kill FIRED (<$140)"
+    },
+    "nickel_lme_3m": {
+      "value": 16420,
+      "change_pct": 0.89,
+      "date": "2026-07-09",
+      "source": "TradingEconomics / IDK Tracker",
+      "signal": ">$14k floor held"
+    },
+    "cpo_bursa_sep": {
+      "value": 4549,
+      "currency": "MYR",
+      "date": "2026-07-07",
+      "source": "IDK Tracker",
+      "signal": ">RM4,500 biodiesel bid"
+    }
+  },
+  "foreign_flow": {
+    "date": "2026-07-01",
+    "net_sell_idr_billion": 577.79,
+    "regular_market_idr_billion": 548.44,
+    "negotiated_cash_idr_billion": 29.35,
+    "top_sells": [
+      {"ticker": "BBRI", "name": "Bank Rakyat Indonesia", "net_sell_idr_billion": 352.40},
+      {"ticker": "BMRI", "name": "Bank Mandiri", "net_sell_idr_billion": 246.68},
+      {"ticker": "TPIA", "name": "Chandra Asri Pacific", "net_sell_idr_billion": 92.65},
+      {"ticker": "BBNI", "name": "Bank Negara Indonesia", "net_sell_idr_billion": 73.70},
+      {"ticker": "MAPI", "name": "Mitra Adiperkasa", "net_sell_idr_billion": 37.60},
+      {"ticker": "ASII", "name": "Astra International", "net_sell_idr_billion": 32.28},
+      {"ticker": "AMRT", "name": "Sumber Alfaria Trijaya", "net_sell_idr_billion": 17.49},
+      {"ticker": "CPIN", "name": "Charoen Pokphand Indonesia", "net_sell_idr_billion": 16.04},
+      {"ticker": "PGAS", "name": "Perusahaan Gas Negara", "net_sell_idr_billion": 12.53},
+      {"ticker": "TLKM", "name": "Telkom Indonesia", "net_sell_idr_billion": 10.94}
+    ],
+    "source": "VIVA via jawawa.id / Stockbit"
+  },
+  "key_levels": {
+    "ihsg": {
+      "resistance": [5900, 6000, 6700],
+      "support": [5750, 5600, 4700],
+      "bull_trigger": "Sustained >5950 + foreign buying return",
+      "bear_trigger": "Break <5600 + IDR >18200"
+    }
+  },
+  "catalysts_today": [
+    {"event": "BI 7-Day Reverse Repo Rate Decision", "time_wib": "15:00 (tentative)", "impact": "HIGH", "note": "Rate hold expected; guidance on IDR defense key"},
+    {"event": "China CPI/PPI (Jun)", "time_wib": "09:30", "impact": "MEDIUM", "note": "Commodity demand signal"},
+    {"event": "US Initial Jobless Claims", "time_wib": "20:30", "impact": "MEDIUM", "note": "Fed policy gauge"},
+    {"event": "IDX Trading Session", "time_wib": "09:00-15:50", "impact": "LIVE", "note": "Watch foreign flow reversal"}
+  ],
+  "headlines": [
+    {"date": "2026-01-12", "source": "Tempo.co", "title": "HSBC 2026 Outlook: IHSG target 9,700; Rupiah seen at 17,000; Govt targets 10,000", "url": "https://en.tempo.co/read/2079888/"},
+    {"date": "2026-07-01", "source": "Astronacci", "title": "IHSG Juli 2026: Peluang Naik ke 6.700 atau Turun ke 4.700?", "url": "https://astronacci.com/blog/read/update-ihsg-juli-2026-peluang-naik-ke-6700-atau-turun-ke-4700"},
+    {"date": "2026-07-02", "source": "VIVA/jawawa.id", "title": "IHSG Rebounds in Early July, Foreign Investors' Favourite Stocks in Focus", "url": "https://jawawa.id/newsitem/ihsg-rebounds-in-early-july-foreign-investors-favourite-stocks-in-focus-despite-market-rally-1782960696"},
+    {"date": "2026-07-07", "source": "BisnisMarket", "title": "Update IHSG Juli 2026: Analisis Sektoral dan Pergerakan Saham", "url": "https://bisnismarket.com/post/update-ihsg-juli-2026-analisis-akurat-indikator-saham-pilihan-dan-prediksi-arah-pasar"},
+    {"date": "2026-07-09", "source": "IDK Tracker", "title": "CATALYST v2.5.35: Gold falls on bombing day — real-rate shock, not risk shock", "url": "https://www.idktracker.com/"},
+    {"date": "2026-07-07", "source": "TradingEconomics", "title": "Indonesia Stock Market (JCI) at 5,986.50 (+1.19% day, +12.06% month, -13.29% year)", "url": "https://tradingeconomics.com/indonesia/stock-market"}
+  ],
+  "verification_notes": {
+    "ihsg": "Jul 3 close 5,875.78 from Investing.com/TradingEconomics — [unverified] for Jul 9 pre-market",
+    "usd_idr": "18,057.53 from exchangerate.guru (Open Exchange Rates) Jul 9 — [verified]",
+    "gold": "$4,074.70 Jul 8 from IDK Tracker — [verified]",
+    "nickel": "$16,420 Jul 9 from TradingEconomics — [verified]",
+    "coal": "$129.10 Jul 9 from TradingEconomics — [verified]",
+    "foreign_flow": "Jul 1 data from VIVA/Stockbit via jawawa.id — [verified]"
+  },
+  "files": {
+    "markdown": "/home/node/.openclaw/workspace/daily_briefing/2026-07-09.md",
+    "html": "/home/node/.openclaw/workspace/daily_briefing/2026-07-09.html",
+    "research_json": "/home/node/.openclaw/workspace/daily_briefing/research-2026-07-09.json",
+    "css": "/home/node/.openclaw/workspace/daily_briefing/briefing.css"
+  }
+}
