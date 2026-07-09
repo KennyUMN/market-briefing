@@ -1,5 +1,126 @@
 [
   {
+    "date": "2026-07-09",
+    "type": "morning",
+    "title": "Morning Market Briefing — 2026-07-09",
+    "generated_at": "2026-07-09T09:02:58.148140Z",
+    "glance": [
+      "IHSG (Jul 3 close): 5,875.78 (+2.28%) — today's session pending",
+      "USD/IDR: 18,057.53 (-0.28%) — IDR strengthened overnight",
+      "Gold: $4,074.70 (-0.73%) — real-rate shock from hawkish FOMC minutes",
+      "Nickel 3M (LME): $16,420 (+0.89%) — holding above $14k floor",
+      "Newcastle Coal: ~$129 — decoupling-kill FIRED (<$140)",
+      "Foreign flow (Jul 1): Net sell IDR 577.79B (BBRI -352B, BMRI -247B)",
+      "BI Policy Decision today ~15:00 WIB — rate hold expected, guidance key"
+    ],
+    "sections": [
+      {
+        "title": "Market Snapshot",
+        "updates": [
+          "IHSG closed Friday Jul 3 at 5,875.78 (+131.22 pts, +2.28%) led by ISAT (+7.5%)",
+          "Pre-market indicators suggest cautious open today after hawkish FOMC minutes (DXY 101.18, UST 10y ~4.58%)",
+          "USD/IDR at 18,057.53, off Wed high of 18,107.87 — relatively stable vs regional peers",
+          "Commodities mixed: Nickel floor holding (bullish INCO/ANTM), coal decoupling kill signal fired (bearish ADRO/ITMG), gold driven by real rates not risk (neutral ANTM/MDKA)",
+          "Foreign investors persistently selling Indonesian banks (Jul 1: BBRI -352B, BMRI -247B = 84% of net sell)"
+        ],
+        "analysis": "The Jul 3 close showed momentum but today's session faces headwinds from external hawkish Fed signals and China data. The BI policy meeting at 15:00 WIB is the key domestic catalyst — any dovish shift in guidance could trigger foreign flow reversal in banks. IDR resilience at ~18,057 despite DXY strength suggests BI intervention or strong carry demand.",
+        "bias": "Mixed — Positive IHSG momentum vs. external hawkish headwinds; BI decision today is swing factor"
+      },
+      {
+        "title": "Foreign Flow & Sector",
+        "updates": [
+          "Net foreign sell Jul 1: IDR 577.79B (Regular: 548.44B, Negotiated/Cash: 29.35B)",
+          "Top 10 foreign sells dominated by banks: BBRI (-352.4B), BMRI (-246.7B), BBNI (-73.7B)",
+          "Non-bank sells: TPIA (-92.7B), MAPI (-37.6B), ASII (-32.3B), AMRT (-17.5B), CPIN (-16.0B), PGAS (-12.5B), TLKM (-10.9B)",
+          "Banking = ~84% of total net foreign outflow despite IHSG gains"
+        ],
+        "analysis": "Persistent foreign liquidation of blue-chip banks indicates global funds reducing Indonesia beta exposure pre-FOMC and on China growth concerns. A reversal requires either BI dovish pivot or clear IDR stabilization below 18,000.",
+        "bias": "Bearish — Foreign flows decisively negative; banking weight drags index"
+      },
+      {
+        "title": "Commodities & Macro",
+        "updates": [
+          "Gold $4,074.70 (-0.73% Jul 8): Fell on Iran strike day — diagnosed as real-rate shock (FOMC minutes > safe haven). DXY 101.18, UST 10y 4.58% crushed gold bid. Gadai LTV buffer ~1.8% ($75 above $4,000 watch)",
+          "Nickel LME 3M $16,420 (+0.89% Jul 9): >$14k floor held; Indonesia RKAB quota increase to 360Mt weighs on supply outlook",
+          "Newcastle Coal ~$129: <$140 decoupling-kill FIRED (IDK Tracker Gate 7 active) — bearish for coal producers",
+          "CPO Sep Bursa RM4,549: Holding >RM4,500 on biodiesel/energy bid"
+        ],
+        "analysis": "Commodity split creates sector divergence: Nickel floor supports INCO/ANTM; coal kill signal hurts ADRO/ITMG/BUMI; gold real-rate driver neutral for miners. Oil stability (Brent ~$78) helps trade balance but Hormuz risk remains.",
+        "bias": "Mixed — Nickel supportive, coal negative, gold neutral"
+      },
+      {
+        "title": "Today's Catalysts",
+        "updates": [
+          "BI 7-Day Reverse Repo Rate Decision (~15:00 WIB): Rate hold (5.75%) consensus; focus on forward guidance for IDR defense",
+          "China CPI/PPI Jun (09:30 WIB): Commodity demand signal for nickel/coal/CPO",
+          "US Initial Jobless Claims (20:30 WIB): Fed policy gauge; stronger labor = higher-for-longer rates",
+          "IDX Trading Session (09:00-15:50 WIB): Watch for foreign flow reversal post-BI decision"
+        ],
+        "analysis": "BI meeting is the dominant domestic event. Hawkish hold + IDR >18,200 warning = bearish. Dovish lean or intervention commitment = bullish for banks/IDR. China data sets commodity tone for afternoon session.",
+        "bias": "Neutral — Awaiting BI decision; pre-meeting bias cautious"
+      },
+      {
+        "title": "Technical Levels (IHSG)",
+        "updates": [
+          "Immediate Resistance: 5,900 → 6,000",
+          "Immediate Support: 5,750 → 5,600",
+          "Bull Trigger: Sustained >5,950 + foreign buying return",
+          "Bear Trigger: Break <5,600 + IDR >18,200",
+          "Astronacci Roadmap (Jul 1): Upside 6,700 vs Downside 4,700"
+        ],
+        "analysis": "IHSG consolidating after ~15% rebound from Jun 9 bottom. 5,800-5,900 range defines near-term direction. Foreign flow is the swing variable — sustained buying could push to 6,000; renewed selling tests 5,600.",
+        "bias": "Neutral — Range-bound pending BI/catalyst"
+      }
+    ],
+    "movers": [],
+    "watchpoints": [
+      "BI 7-Day Reverse Repo Rate Decision outcome and forward guidance (15:00 WIB)",
+      "Foreign flow post-BI: net buy >IDR 200B = reversal signal; continued sell >500B = sustained liquidation",
+      "China CPI/PPI impact on nickel/coal/CPO afternoon session",
+      "IHSG technical: hold >5,800 = constructive; break <5,750 = test 5,600",
+      "USD/IDR: breach 18,200 = intervention watch; reclaim <18,000 = IDR strength",
+      "Oil/Hormuz: any escalation = inflation/Fed hawkish = risk-off"
+    ],
+    "sources": [
+      {
+        "title": "Investing.com — Jakarta Composite at 5,875.78 (+2.28%, Jul 3 close)",
+        "url": "https://www.investing.com/indices/idx-composite"
+      },
+      {
+        "title": "TradingEconomics — JCI at 5,986.50 (+1.19% day, Jul 7)",
+        "url": "https://tradingeconomics.com/indonesia/stock-market"
+      },
+      {
+        "title": "exchangerate.guru / Open Exchange Rates — USD/IDR 18,057.53 (Jul 9)",
+        "url": "https://exchangerate.guru/usd/idr/1/"
+      },
+      {
+        "title": "IDK Tracker — CATALYST v2.5.35 (Jul 9): Gold real-rate shock, coal kill fired, nickel floor held",
+        "url": "https://www.idktracker.com/"
+      },
+      {
+        "title": "TradingEconomics — Nickel $16,337.50 (Jul 9), Gold $4,077, Coal $129.10",
+        "url": "https://tradingeconomics.com/commodity/nickel"
+      },
+      {
+        "title": "VIVA / jawawa.id / Stockbit — Foreign flow Jul 1: Net sell IDR 577.79B (BBRI -352B, BMRI -247B)",
+        "url": "https://jawawa.id/newsitem/ihsg-rebounds-in-early-july-foreign-investors-favourite-stocks-in-focus-despite-market-rally-1782960696"
+      },
+      {
+        "title": "Astronacci — IHSG Juli 2026 Roadmap: 6,700 upside vs 4,700 downside",
+        "url": "https://astronacci.com/blog/read/update-ihsg-juli-2026-peluang-naik-ke-6700-atau-turun-ke-4700"
+      },
+      {
+        "title": "Tempo.co — HSBC 2026 Outlook: IHSG target 9,700, IDR 17,000",
+        "url": "https://en.tempo.co/read/2079888/"
+      },
+      {
+        "title": "BisnisMarket — Update IHSG Juli 2026 Analisis Sektoral",
+        "url": "https://bisnismarket.com/post/update-ihsg-juli-2026-analisis-akurat-indikator-saham-pilihan-dan-prediksi-arah-pasar"
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "type": "closing",
     "title": "Closing Market Briefing — 2026-07-08",
