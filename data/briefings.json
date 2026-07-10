@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-07-10",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-10",
+    "generated_at": "2026-07-10T01:16:58.562272Z",
+    "glance": [
+      "**Market tone:** Mixed — IHSG rebounded on technical buying but foreign investors kept selling. Wall Street rallied on AI/semiconductors despite Middle East tensions.",
+      "**Main Indonesia catalyst:** IHSG closed at 5,912 after a volatile session; foreign net sell of Rp 259 billion persisted. Key resistance at 6,000, support at 5,805.",
+      "**Main global catalyst:** US-Iran conflict escalated with strikes on US bases in Kuwait, Qatar, and Bahrain; semiconductor rally offset geopolitical fears.",
+      "**Commodities focus:** Aluminium export debut from ADRO's smelter to the US; gold slightly lower; oil volatile due to Hormuz risk.",
+      "**Stock watchlist:** ANTM (commodity rebound), GOTO (MSCI exclusion risk >75%), KLBF (margin pressure from weak rupiah)."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "**IHSG Rebound:** IHSG closed up 0.66% at **5,912.44** (prev close implied ~5,873) after swinging between an intraday low of 5,839 and high of 5,912. Volume: 27.11 billion shares, value Rp 12 trillion.",
+          "**Wall Street Rally:** Nasdaq surged **1.30%** to 26,206.89, S&P 500 +0.81% to 7,543.66, Dow Jones +0.27% to 52,487.41. The PHLX Semiconductor Index jumped **3.06%**.",
+          "**Foreign Flows:** Despite the rebound, foreign investors posted a **net sell of Rp 259.36 billion** on the Indonesian market. Top foreign buys: MBMA (Rp 357.3B), BMRI (Rp 87.46B), BBCA (Rp 47.11B).",
+          "**AI Investment Surge:** Micron Technology soared 4.5% after announcing >US$250 billion in US investments through 2035 for AI memory chips. Meta Platforms rose on plans to produce AI chips starting September.",
+          "**Geopolitical Risk:** Iran claimed attacks on US military targets in Kuwait, Qatar, and Bahrain. The Strait of Hormuz remains a key risk for energy markets.",
+          "**Fed Policy:** FOMC Minutes signaled rates staying \"higher for longer.\" The market now prices the highest probability as a 25bps hike in December."
+        ],
+        "analysis": "The divergence is striking: global tech is booming on AI capital expenditure, while emerging markets like Indonesia face persistent foreign outflows and domestic retail weakness. The IHSG rebound looks technical rather than fundamentally driven — foreign selling continued and breadth was modest (327 up, 275 down). If oil spikes due to Hormuz disruptions, Indonesia's import bill and subsidy burden will worsen, pressuring the rupiah and fiscal position.",
+        "bias": "**Neutral / Cautious** — Short-term rebound possible on technicals, but medium-term headwinds from Fed policy, geopolitical oil risk, and weak domestic retail data limit upside."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "**Japan PPI Surges:** Japan's Producer Price Index rose **7.1% YoY** in June, beating consensus of 6.8% and up from 6.6% in May. Import prices in yen terms exploded **29.7% YoY**.",
+          "**Yen at 40-Year Lows:** USD/JPY traded at **162.36**, near the weakest level in four decades. Goldman Sachs warns yen could keep weakening without a change in US Treasury yields or Japanese fiscal conditions.",
+          "**RBNZ Hikes:** Reserve Bank of New Zealand raised rates and signaled further tightening. Westpac expects two more 25bps hikes by year-end, peaking at 4% in September 2027.",
+          "**IMF Downgrade:** The IMF cut its 2026 global growth forecast to **3.0%**.",
+          "**Indonesia Domestic:** Cadangan devisa (foreign reserves) remains strong, but retail sales data is weak. The USD/IDR rate held flat at **18,135** this morning."
+        ],
+        "analysis": "Japan's import price shock is a canary in the coal mine for energy-importing Asian economies. If yen weakness forces BOJ intervention or accelerates capital repatriation, regional FX volatility could rise. For Indonesia, the combination of weak rupiah (above 18,000), high energy import costs, and Fed \"higher for longer\" policy compresses monetary policy space. BI may be forced to keep rates elevated even if domestic growth slows.",
+        "bias": "**Bearish on emerging market FX and rates** — Dollar strength and high US rates will continue to drain liquidity from IDR and regional assets."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "**Aluminium (ADRO):** PT Alamtri Resources Indonesia (ADRO) shipped its first aluminium exports: **31,494 MT** to the US (bought by Mercuria) and **3,569 MT** to South Korea (bought by Vitol). ADRO targets up to **350,000 MT** of aluminium ingot sales this year.",
+          "**Gold:** Gold price in Indonesia at **Rp 2,633,000/gram** (-0.30%, -Rp 8,000). [unverified] — global spot price not independently confirmed.",
+          "**Oil:** Volatile. Prices swung overnight as markets assessed Iran-US escalation. No reliable confirmed benchmark price obtained for today's open. [unverified]",
+          "**Nickel:** No fresh price data obtained from sources today. [unverified]"
+        ],
+        "analysis": "ADRO's aluminium export debut is significant: the US is actively seeking non-Gulf aluminium supply after Middle East disruptions drove US aluminium premiums to record highs. This validates Indonesia's downstreaming (hilirisasi) strategy and positions ADRO as a geopolitical beneficiary. For energy, Hormuz remains the wildcard — any closure would spike oil and crush Indonesia's trade balance.",
+        "bias": "**Bullish on ADRO / Indonesia downstream metals** — Supply-constrained aluminium market + geopolitical substitution demand = tailwind. **Neutral/cautious on oil** — high volatility, asymmetric upside risk."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "ANTM (Aneka Tambang)",
+        "catalyst": "Commodity rebound play. ANTM appeared in top 10 foreign net buys (Rp 27.73B) and BRI Danareksa recommends a technical buy with targets of 2,920–3,080 after pulling back to fill a gap at 2,740.",
+        "bias": "**Bullish** — Nickel and gold exposure + foreign accumulation + technical setup looks constructive above 2,700.",
+        "watch": ""
+      },
+      {
+        "stock": "GOTO (GoTo Gojek Tokopedia)",
+        "catalyst": "Liquidity crisis and >75% probability of MSCI index exclusion. Foreign investors dumped 208 billion shares in May. Despite posting its first-ever quarterly net profit in Q1 2026, the stock is under severe technical pressure.",
+        "bias": "**Bearish** — MSCI exclusion would trigger forced selling from passive global funds. Near-term sentiment extremely weak.",
+        "watch": ""
+      },
+      {
+        "stock": "KLBF (Kalbe Farma)",
+        "catalyst": "Rupiah weakness is squeezing margins. ~50% FX exposure in USD; every Rp 100 depreciation cuts GPM by ~0.1%. OCBC forecasts GPM to fall to ~38% in 2026. However, the company has ~120 days of inventory buffer and is raising prices selectively in Consumer Health and Nutrition segments.",
+        "bias": "**Bullish long-term, cautious short-term** — Defensive pharma demand remains solid. Margin compression is real but manageable. Current weakness may offer entry for long-term holders.",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "Kontan — Wall Street Ditutup Naik Kamis (9/7), Lonjakan Saham Semikonduktor Angkat Nasdaq 1,3%",
+        "url": "https://investasi.kontan.co.id/news/wall-street-ditutup-naik-kamis-97-lonjakan-saham-semikonduktor-angkat-nasdaq-13"
+      },
+      {
+        "title": "Kontan — IHSG Rebound ke 5.912, Cermati Saham Net Buy Terbesar Asing, Kamis (9/7)",
+        "url": "https://investasi.kontan.co.id/news/ihsg-rebound-ke-5912-cermati-saham-net-buy-terbesar-asing-kamis-97"
+      },
+      {
+        "title": "Kontan — Harga Grosir Jepang Melonjak 7,1%, Lonjakan Biaya Energi Picu Tekanan Inflasi",
+        "url": "https://internasional.kontan.co.id/news/harga-grosir-jepang-melonjak-71-lonjakan-biaya-energi-picu-tekanan-inflasi"
+      },
+      {
+        "title": "Kontan — Rekomendasi Saham Hari Ini (10/7): ANTM, BUVA, dan BUMI Berpeluang Menguat",
+        "url": "https://investasi.kontan.co.id/news/rekomendasi-saham-hari-ini-107-antm-buva-dan-bumi-berpeluang-menguat"
+      },
+      {
+        "title": "Kontan — Smelter Alamtri (ADRO) Mulai Ekspor Aluminium, Pasok Perdana ke Amerika Serikat",
+        "url": "https://industri.kontan.co.id/news/smelter-alamtri-adro-mulai-ekspor-aluminium-pasok-perdana-ke-amerika-serikat"
+      },
+      {
+        "title": "Kontan — Saham GOTO Hadapi Krisis Likuiditas, Peluang Keluar dari MSCI Lebih dari 75%",
+        "url": "https://insight.kontan.co.id/news/saham-goto-hadapi-krisis-likuiditas-peluang-keluar-dari-msci-lebih-dari-75"
+      },
+      {
+        "title": "Kontan — Pelemahan Rupiah Pangkas Margin Kalbe Farma (KLBF), Cek Rekomendasi Analis",
+        "url": "https://investasi.kontan.co.id/news/pelemahan-rupiah-pangkas-margin-kalbe-farma-klbf-cek-rekomendasi-analis"
+      },
+      {
+        "title": "Kontan — Yen Tertekan Dekati Level Terendah 40 Tahun Jumat (10/7)",
+        "url": "https://internasional.kontan.co.id/news/yen-tertekan-dekati-level-terendah-40-tahun-jumat-107-waspadai-intervensi-jepang"
+      }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "type": "morning",
     "title": "Morning Market Briefing — 2026-07-09",
