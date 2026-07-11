@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026-07-11",
+    "type": "morning",
+    "title": "Morning Briefing — 2026-07-11",
+    "generated_at": "2026-07-11T01:27:58.432153Z",
+    "glance": [
+      "**Market tone:** Cautious. IHSG data is stale (last reliable close 5,912.44 on 9 Jul); rupiah firmed slightly to 18,064.",
+      "**Main Indonesia catalyst:** Government signaling H2 growth rebound + food-export pivot.",
+      "**Main global catalyst:** Oil geopolitical premium (US–Iran tensions) and China capital-control tightening.",
+      "**Commodities focus:** Oil elevated near $71.51; gold ~$4,129; nickel unconfirmed (~$16,000–17,000/t).",
+      "**Stock watchlist:** BBRI flat at 2,790; defensive dividend plays favored."
+    ],
+    "sections": [
+      {
+        "title": "Market Outlook",
+        "updates": [
+          "Brent/WTI crude extended gains on renewed US–Iran geopolitical fears (The Jakarta Post, 8 Jul). Oil closed at **$71.51** on 10 Jul.",
+          "Asian shares drifted lower ahead of earnings season; Indonesia’s bond market improved while equities remained stuck in a slump (The Jakarta Post, 6 Jul).",
+          "IHSG last reliable close: **5,912.44** [unverified — 10 Jul data null]."
+        ],
+        "analysis": "Higher oil pressures Indonesia’s fuel-subsidy budget and can widen the trade deficit, weakening BI’s room to cut rates. If regional earnings disappoint, foreign flows may exit Indonesia ahead of safer assets.",
+        "bias": "**Bearish-short-term** — Geopolitical risk premium + earnings uncertainty favor defensive positioning until clarity on H2 growth materializes."
+      },
+      {
+        "title": "Economic News",
+        "updates": [
+          "Airlangga Hartarto expressed optimism for an H2 2026 economic rebound, citing improved manufacturing PMI and accelerated government spending (ANTARA, 10 Jul).",
+          "President Prabowo highlighted Indonesia’s shift from food importer to exporter. H1 2026 rice surplus reached ~3.79 million tons; multiple countries (Australia, Brazil, Philippines, India) requested urea supplies (ANTARA, 10 Jul).",
+          "USD/IDR last: **18,064** [verified via Yahoo Finance, 10 Jul]."
+        ],
+        "analysis": "Food self-sufficiency and export demand reduce import bills and support the rupiah. If the government follows through with fiscal acceleration, infrastructure and agriculture-linked stocks could see rerating.",
+        "bias": "**Bullish-long-term** — Policy momentum on food security and fiscal spending is constructive, but execution risk remains."
+      },
+      {
+        "title": "Commodities",
+        "updates": [
+          "Oil: **$71.51** [verified].",
+          "Gold: **$4,128.90** [verified].",
+          "Nickel: **~$16,000–17,000/tonne** [unverified — no live feed; LME cash references from early July suggest ~16,175].",
+          "China tightened capital-outflow rules, classifying some cross-border broker trades as illegal and fining major platforms; mainland investors continue shifting to Hong Kong (The Jakarta Post, 4 Jul)."
+        ],
+        "analysis": "Energy and gold price levels feed directly into Indonesia’s inflation and current-account dynamics. China’s capital curbs reduce regional liquidity and can dampen emerging-market sentiment.",
+        "bias": "**Neutral-to-bearish** — Commodity prices are supportive for resource exporters, but China liquidity tightening and oil volatility cap upside."
+      },
+      {
+        "title": "Today's Watchpoints",
+        "updates": [],
+        "analysis": "",
+        "bias": ""
+      }
+    ],
+    "movers": [
+      {
+        "stock": "BBRI.JK (Bank Rakyat Indonesia)",
+        "catalyst": "Closed flat at **2,790** [verified] on low volume. Proxy for rural consumption and micro-lending.",
+        "bias": "Neutral",
+        "watch": ""
+      },
+      {
+        "stock": "TLKM.JK (Telkom Indonesia)",
+        "catalyst": "Defensive dividend play with data-center growth vectors.",
+        "bias": "Neutral",
+        "watch": ""
+      },
+      {
+        "stock": "CPO / Plantation basket (LSIP, AALI, SMAR)",
+        "catalyst": "B50 biodiesel mandate and methanol-industry buildout to support domestic blending (ANTARA, 10 Jul).",
+        "bias": "Bullish",
+        "watch": ""
+      }
+    ],
+    "watchpoints": [],
+    "sources": [
+      {
+        "title": "The Jakarta Post — Oil prices extend rally as US strikes on Iran revive geopolitical fears",
+        "url": "https://www.thejakartapost.com/business/2026/07/08/oil-prices-extend-rally-as-us-strikes-on-iran-revive-geopolitical-fears"
+      },
+      {
+        "title": "The Jakarta Post — Asian shares slip as earnings loom; oil weighed by supply",
+        "url": "https://www.thejakartapost.com/business/2026/07/06/asian-shares-slip-as-earnings-loom-oil-weighed-by-supply"
+      },
+      {
+        "title": "ANTARA News — Airlangga optimistic of economic rebound in second half of 2026",
+        "url": "https://en.antaranews.com/news/422116/airlangga-optimistic-of-economic-rebound-in-second-half-of-2026"
+      },
+      {
+        "title": "ANTARA News — Prabowo optimistic of Indonesia becoming world food barn",
+        "url": "https://en.antaranews.com/news/422148/prabowo-optimistic-of-indonesia-becoming-world-food-barn"
+      },
+      {
+        "title": "The Jakarta Post — Chinese investors flock to Hong Kong as trading curbs tighten",
+        "url": "https://www.thejakartapost.com/business/2026/07/04/chinese-investors-flock-to-hong-kong-as-trading-curbs-tighten"
+      },
+      {
+        "title": "ANTARA News — RI to build methanol industries to support B50 biodiesel program",
+        "url": "https://en.antaranews.com/news/422072/ri-to-build-methanol-industries-to-support-b50-biodiesel-program"
+      },
+      {
+        "title": "Yahoo Finance — BBRI.JK quote",
+        "url": "https://finance.yahoo.com/quote/BBRI.JK"
+      },
+      {
+        "title": "Yahoo Finance — TLKM.JK quote",
+        "url": "https://finance.yahoo.com/quote/TLKM.JK"
+      }
+    ]
+  },
+  {
     "date": "2026-07-10",
     "type": "morning",
     "title": "Morning Briefing — 2026-07-10",
